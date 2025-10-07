@@ -1,5 +1,5 @@
 # Short-Story
-Title: “Un-Fucking-Funny”
+Title: “Un-F***ing-Funny”
 A Dystopian Novel by Wiz-Dimensional
 
 Page 1 — The First Laugh
@@ -30,7 +30,7 @@ Albert and his team — four soldiers and one data analyst named Mia — moved t
 
 They passed a group of bodies — mouths stretched wide, frozen in rigor-mortis laughter.
 
-Albert muttered, “Un-fucking-funny.”
+Albert muttered, “Un-f***ing-funny.”
 
 Mia glanced at him. “You always say that.”
 
