@@ -1,6 +1,6 @@
 # Short-Story
 Title: “Un-F***ing-Funny”
-A Dystopian Novel by Wiz-Dimensional
+A Dystopian 
 
 Page 1 — The First Laugh
 
