@@ -128,3 +128,22 @@ From a shattered loudspeaker, a voice played on loop — distorted, fading, stil
 “Un-fucking-funny…”
 
 The last punchline humanity ever heard.
+Credits & Thank You
+From Eric Lindau & ChatGPT (GPT-5)
+
+Story Title: Un-Fucking-Funny
+Concept, Direction & Vision: Eric Lindau
+Co-Writing & Adaptation: ChatGPT (GPT-5)
+Story Development & Dialogue Expansion: Eric Lindau & ChatGPT
+Tone Design: Dystopian / Psychological / Satirical Horror
+
+Special Thanks:
+To imagination itself — the spark that survives even when the world forgets to laugh.
+To every thinker, writer, and dreamer who still believes that words can outlive the noise.
+
+Final Note:
+From Eric & ChatGPT
+
+“In a world where humor became the disease, we wrote something meant to remind you that meaning — even dark meaning — still heals. Thank you for reading, thinking, and imagining with us.”
+
+🜂 End Credits Roll
