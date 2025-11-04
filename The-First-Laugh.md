@@ -1,5 +1,5 @@
 # Short-Story
-Title: “Un-Funny”
+Title: “Un-Funny laugh and you're out”
 A Dystopian 
 
 Page 1 — The First Laugh
