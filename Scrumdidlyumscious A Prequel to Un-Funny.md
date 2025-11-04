@@ -38,7 +38,7 @@ Instead, he just thought:
 
 Page 2 — The Gas Station Gospel
 
-The next day, he stopped at a gas station for caffeine and irony.
+The next day, he stopped at a gas station for caffeine and petro.
 
 There, by the register, sat the bag: Super-Scrumdidlyumscious Party Puffs — Season Burst Edition.
 A holographic label glowed “Now With Chimeriyum™!” like divine certification.
@@ -110,12 +110,36 @@ He laughed once — dryly.
 She frowned. “You’re not taking this seriously.”
 
  Mia's friend Larry calls he's a mutuail friend of Albert and Mia so Mia puts him on speaker phone 
+
  Larry They all greet each other on speakerphone — Larry starts to explain.
+
 “I can’t get…” he mumbles, and there’s a crinkle of a bag, a loud crunch, and the sound of chewing right into the mic.
-“I can’t get off the couch,” he finally says. The fat men have flipped over like beetles, helpless on their backs — 
-victims of something so irresistibly tasty that one bite always demands another.
-There must be some addictive ingredient baked into it.
-compulsive behavior, hunger that’s not hunger.”
+
+Albert interupts you're ah chewing into the microphone. Then Larry says
+
+“I...I can’t get off the couch,” .He adds "Have you seen the news?" "It's all over the palce like a plague, 
+
+fat men have flipped over like beetles, helpless on their backs —" but with the adiction Larry adds you want to socialize" 
+
+Albert remembers being drawn to gas clerk how he wanted to share nibbles and do soical bags. Albert Snaps out of it Mia adds 
+
+she'd been eating soacailly larry interupts. He said its the jinngle its caught in his head and he wants them to come over and do 
+
+some socail grinding? but then he confesses first read the news."
+
+And sure enough Albert and Mia turn on the news they'd been avoidong recently and like Larry says 
+
+its an epidimc obisity is out like wild-fire victims of something so irresistibly tasty that one bite always demands another.
+
+The TV broadcast the news channel as the hosts interviews a near casulaity. they sound like they remain semi-unaware of whats really 
+
+going on like the rest, as the interviewed replied
+
+"There must be some addictive ingredient baked into it." then the camera-man shoots vootage of a street corner the homeless 
+
+topled amognst there other prior aadictions now the even the zombies are fat and more non-drug addicts lay obese asking for another bite.
+
+The TV hosts goes on "compulsive behavior, hunger that’s not hunger.”
 
 Albert shrugged. “It’s called flavor, Mia. Civilization runs on it.”
 
@@ -144,7 +168,7 @@ Their slogan changed:
 
 “Don’t just eat. Belong.”
 
-New flavors dropped weekly — BluerryBunaglo, Cinnamon Crisis, Lite-Lite-Heavy, Nacho Existential.
+New flavors dropped weekly — BlueberryBunaglo, Cinnamon hangover, Lite-bittersweet-Heavy, Roswell Nacho.
 
 Stores ran out within hours. People were scalping bags online.
 
@@ -158,7 +182,7 @@ Page 7 — The Experiment
 
 Mia started running tests.
 
-“Chimerical,” she explained one night, “is a hybrid compound of serotonin mimetics and flavor amplifiers. 
+“Chimeriyum,” she explained one night, “is a hybrid compound of serotonin mimetics and flavor amplifiers. 
 
 It bonds to neural receptors that regulate satisfaction.”
 
@@ -185,30 +209,6 @@ Albert gained twelve pounds and a new bit:
 The crowd erupted.
 Half of them were eating during the show.
 
-Page 9 — The Reunion
-
-One night, Mia called.
-
-“I’ve been eating them too,” she admitted.
-“I can’t stop.”
-
-He went to her apartment. She’d changed — rounder, glowing, euphoric. The place smelled like sugar and salt.
-
-They sat together on her couch, surrounded by empty bags.
-
-Albert bit into a candy bar. “You know what’s funny?”
-
-Mia smiled through a mouthful of crumbs. “Nothing anymore.”
-
-They laughed — not because it was funny, but because it felt good.
-
-Page 10 — The First Cracks
-
-A week later, Luke — Albert’s old comedy rival — called Mia mid-snack.
-He sounded breathless.
-
-“Can’t get up,” he said. “Been eating for hours. My jaw’s cramping. I think… I think the ChimeriYum wants to keep going.”
-
 Static. Crunching. Then silence.
 
 Albert set down his candy bar. For the first time, the aftertaste felt wrong — too perfect.
@@ -218,7 +218,7 @@ On the TV, a new ad played.
 
 “Super-Scrumdidlyumscious — now with extra ChimeriYum! Because one craving is never enough.”
 
-Page 11 — Epilogue: The Punchline
+Page 9 — Epilogue: The Punchline
 
 Albert sat on the couch, surrounded by wrappers.
 The laughter track from the ad echoed softly.
@@ -230,3 +230,5 @@ He muttered to himself:
 He reached for one last puff.
 
 It melted like laughter on his tongue.
+
+By Eric Lindau thanks ChatGPT5
