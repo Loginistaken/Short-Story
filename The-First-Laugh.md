@@ -1,19 +1,19 @@
 # Short-Story
-Title: “Un-F***ing-Funny”
+Title: “Un-Funny”
 A Dystopian 
 
 Page 1 — The First Laugh
 
 They said it started with a meme.
-Just a looping clip of a man slipping on a banana peel — old-fashioned slapstick, the kind that used to make even the most stoic smirk. The problem wasn’t the meme itself. It was the sound. A subtle, almost inaudible frequency baked into the file. Anyone who laughed — even chuckled — caught the “Joke.”
+Just a looping clip of a man slipping on a banana peel but slowed down in slow motion — then faster old-fashioned slapstick, the kind that used to make even the most sober smirk. The problem wasn’t the meme itself. It was the sound. A subtle, almost inaudible frequency baked into the file. Anyone who laughed — even chuckled — caught the “Joke.”
 
 At first, it was harmless. People couldn’t stop laughing. The streets filled with hysterical sounds — uncontrollable, animal-like laughter echoing through subways and hospitals. Then, the laughter turned violent. The muscles convulsed, lungs collapsed, brains hemorrhaged. The virus wasn’t biological. It was neurological.
 It spread through humor.
 
-Page 2 — Enter Albert
+Page 2 —Meet Albert
 
 Albert Madsen didn’t find much funny these days.
-He used to be a comedy writer — the kind of man who once made crowds roar on late-night TV. But he quit after the Incident. Now he worked as a behavioral linguist for the Federal NeuroDefense Corps — or what was left of it. His job: decode cognitive infections, linguistic pathogens, and “idea viruses.”
+He used have his P.H.D in comedy, focused as a writer — the kind of man who once made crowds roar on late-night TV. But he quit after the Incident. Now he worked as a behavioral linguist for the Federal NeuroDefense Corps — or what was left of it. His job: decode cognitive infections, linguistic pathogens, and “idea viruses.”
 He was a specialist in memetic toxicity — weaponized thoughts.
 
 So when the Joke spread, Albert was one of the few people immune. Not because he was special, but because his sense of humor was already dead.
@@ -30,7 +30,7 @@ Albert and his team — four soldiers and one data analyst named Mia — moved t
 
 They passed a group of bodies — mouths stretched wide, frozen in rigor-mortis laughter.
 
-Albert muttered, “Un-f***ing-funny.”
+Albert muttered, “Un-funny.”
 
 Mia glanced at him. “You always say that.”
 
@@ -57,9 +57,11 @@ That night, around the campfire, Torres tried to lighten the mood. “Guess this
 
 Vik snorted — a single laugh. Then he froze. His eyes rolled back. His jaw locked, and he fell twitching into the firelight.
 
+ Albert declares "He thought and he thought wrong, wrong answer." 
+
 Everyone stared.
 
-Albert whispered, “Told you. Un-fucking-funny.”
+Albert whispered, “Told you. Un-funny.”
 
 Page 6 — “They Laugh, They Die”
 
@@ -72,7 +74,7 @@ Albert knew better. It wasn’t airborne — it was in them.
 
 The virus had evolved to detect laughter before it even surfaced — the micro-muscle flicker, the subconscious amusement before the sound escaped. Humor had become a death sentence.
 
-He stood before the others and shouted, “Look around you! These dumb fucks laugh, they die! You see it now?”
+He stood before the others and shouted, “Look around you! These dumb f%$!! laugh, they die! You see it now?”
 
 Mia looked up, her face pale.
 “They’re not laughing at anything anymore,” she whispered. “They’re laughing because something inside them wants to.”
@@ -83,7 +85,7 @@ Page 7 — The Spoof
 
 Later that day, while decoding a corrupted transmission, they picked up a recording — a mocking imitation of Albert’s voice.
 
-“Un-fucking-funny!”
+“"He thought and he thought wrong, wrong answer."Un-funny!”
 It looped, warped, distorted — someone had spliced it into a remix.
 Torres thought it was a prank from the dead networks. He smirked.
 
@@ -94,7 +96,7 @@ Albert watched in silence as Torres choked to death on his own amusement.
 
 Mia screamed. Gage puked. The radio kept playing the remix.
 
-“Un-fucking-funny! Un-fucking-funny!”
+“Un-funny"He thought and he thought wrong, wrong answer."! Un-funny!”
 
 Albert crushed the device under his boot.
 
@@ -118,20 +120,9 @@ Mia tried to stop him, but it was too late — the smile spread, a dry, broken c
 
 The virus welcomed him home.
 
-Page 9 — Epilogue: The Echo
 
-Weeks later, automated drones recorded a strange sound in the ruins — not laughter, not exactly.
-Something more tired. A low, rasping sigh that carried through the empty streets.
 
-From a shattered loudspeaker, a voice played on loop — distorted, fading, still defiant.
-
-“Un-fucking-funny…”
-
-The last punchline humanity ever heard.
-Credits & Thank You
-From Eric Lindau & ChatGPT (GPT-5)
-
-Story Title: Un-Fucking-Funny
+Story Title: Un-Funny laugh and you're out
 Concept, Direction & Vision: Eric Lindau
 Co-Writing & Adaptation: ChatGPT (GPT-5)
 Story Development & Dialogue Expansion: Eric Lindau & ChatGPT
