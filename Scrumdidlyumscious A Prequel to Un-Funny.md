@@ -100,12 +100,12 @@ Later, in her apartment littered with empty bags, Mia pulled up a data chart.
 
 It doesn’t just taste good — it teaches your brain what ‘good’ means.”
 
-Albert leaned over the screen. “So it’s a PhD in happiness?”
+Albert leaned over the screen. “So it’s pharmaceutical level drug which is new and un-regulated not declared a substance yet”
 
-“It’s a personality hijacker,” she said. “A bite-sized religion.”
+“It’s a personality hijacker,” she said. “A bite-sized serotonin addiction.”
 
 He laughed once — dryly.
-“Religion’s cheaper in bulk.”
+“Happiness is cheaper in bulk.”
 
 She frowned. “You’re not taking this seriously.”
 
@@ -125,11 +125,11 @@ Albert remembers being drawn to gas clerk how he wanted to share nibbles and do 
 
 she'd been eating soacailly larry interupts. He said its the jinngle its caught in his head and he wants them to come over and do 
 
-some socail grinding? but then he confesses first read the news."
+some socail grinding? but then he confesses, read the news first."
 
 And sure enough Albert and Mia turn on the news they'd been avoidong recently and like Larry says 
 
-its an epidimc obisity is out like wild-fire victims of something so irresistibly tasty that one bite always demands another.
+its an epidimc obesity is out like wild-fire victims of something so irresistibly tasty that one bite always demands another.
 
 The TV broadcast the news channel as the hosts interviews a near casulaity. they sound like they remain semi-unaware of whats really 
 
