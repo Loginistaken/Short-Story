@@ -25,7 +25,7 @@ Albert blinked.
 He didn’t catch half of that. But he did hear the words “mild existential joy.”
 That sounded… delicious.
 
-Albert blinked, caught only the sparkle of words like party, tasty, approved, and something about sharing with friends.
+Albert ONLY caught the sparkle of words like party, tasty, approved, and something about sharing with friends.
 
 He missed the phrase mildly addictive.
 He missed ChimeriYum.
