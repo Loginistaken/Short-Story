@@ -4,7 +4,7 @@ A Dystopian
 
 Page 1 — The First Laugh
 
-They said it started with a meme.
+They said it started with a video.
 Just a looping clip of a man slipping on a banana peel but slowed down in slow motion — then faster old-fashioned slapstick, the kind that used to make even the most sober smirk. The problem wasn’t the meme itself. It was the sound. A subtle, almost inaudible frequency baked into the file. Anyone who laughed — even chuckled — caught the “Joke.”
 
 At first, it was harmless. People couldn’t stop laughing. The streets filled with hysterical sounds — uncontrollable, animal-like laughter echoing through subways and hospitals. Then, the laughter turned violent. The muscles convulsed, lungs collapsed, brains hemorrhaged. The virus wasn’t biological. It was neurological.
