@@ -155,3 +155,8 @@ Outside, a child giggled, unprompted. Someone else barked a laugh at a meme on a
 Another laughed in a traffic jam. Timing slightly off, but enough.
 
 Albert watched the shadows move, heart steady, lungs working. He realized, quietly: The dream hadn’t ended. It had merely gone home. Waiting.
+Story Title: Un-Funny laugh and you're out Concept, Direction & Vision: Eric Lindau Co-Writing & Adaptation: ChatGPT (GPT-5) Story Development & Dialogue Expansion: Eric Lindau & ChatGPT Tone Design: Dystopian / Psychological / Satirical Horror
+
+Special Thanks: To imagination itself — the spark that survives even when the world forgets to laugh. To every thinker, writer, and dreamer who still believes that words can outlive the noise.
+
+Final Note: From Eric & ChatGPT
