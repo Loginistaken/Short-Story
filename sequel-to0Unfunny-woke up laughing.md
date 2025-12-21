@@ -1,6 +1,6 @@
 Albert Madsen woke up laughing. Not the violent, body-breaking laughter from the dream — 
 just a soft exhale, a half-smile slipping out of him like steam. His chest rose. His lungs worked.
-His heart stayed put. Soonlight spilled through the curtains. Mia was beside him, warm, real,
+His heart stayed put. Moonlight spilled through the curtains. Mia was beside him, warm, real,
 breathing. Her arm rested across his stomach the way it always did when she slept deeply — 
 like she was anchoring him to the mattress, to the world. Albert blinked. No ruins. No silence. 
 No dead cities echoing with laughter. Just the quiet hum of the refrigerator and a distant car 
