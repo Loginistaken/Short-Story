@@ -12,7 +12,10 @@ Mia stirred. “You okay?” she mumbled.
 
 She smiled without opening her eyes. “Do it again later. I’ve got a meeting at nine.”
 
-Albert lay there, staring at the ceiling, heart still racing. The dream clung to him — not like fear, but like meaning.
+Albert lay there, staring at the ceiling, heart still racing. He wanted to explain how in the dream the 
+joke had been based on bannanas he believed in his dream this could be a reality after the bat scare,
+he giggles quitely as Mia tries to sleep. The dream clung to him — not like fear,although
+afraid to laugh out loud tremendesouly. 
 
 ---
 
@@ -22,7 +25,12 @@ He sat at his home PC, the familiar keyboard worn smooth beneath his fingers. La
 He typed it, then paused. He thought of the last few years — pandemics, isolation, 
 the way fear moved faster than truth, the way ideas spread before facts could catch them.
 He remembered watching the world laugh nervously through masks, through screens, through the 
-slow realization that bodies weren’t as invincible as jokes made them seem.
+slow realization how horrifying the repulse to laugh was and how he lost all his friends within the dream,
+realized no body likes to hear about other people dreams but somehow the plot mangled him as he couldn't 
+decpict from reality anymore how crazy things had been the several years of his life and everything, 
+hell it felt real just because someone slipped on a bannnana the world collapsed,  
+he thought deeply how to capture the dream on canvas 
+man wasn't as invincible as jokes made them seem.
 
 “What if,” he whispered, “the brain catches things too?” He laughed — a short, careful one. 
 “It's a message,” he muttered, "a prophecy in a since, the script writer of the message had twisted sense of humor.”
