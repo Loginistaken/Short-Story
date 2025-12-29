@@ -13,7 +13,7 @@ Mia stirred. “You okay?” she mumbled.
 She smiled without opening her eyes. “Do it again later. I’ve got a meeting at nine.”
 
 Albert lay there, staring at the ceiling, heart still racing. He wanted to explain how in the dream the 
-joke had been based on bannanas he believed in his dream this could be a reality after the bat scare,
+joke had been based on bananas he believed in his dream this could be a reality after the bat scare,
 he giggles quitely as Mia tries to sleep. The dream clung to him — not like fear,although
 afraid to laugh out loud tremendesouly. 
 
@@ -28,7 +28,7 @@ He remembered watching the world laugh nervously through masks, through screens,
 slow realization how horrifying the repulse to laugh was and how he lost all his friends within the dream,
 realized no body likes to hear about other people dreams but somehow the plot mangled him as he couldn't 
 decpict from reality anymore how crazy things had been the several years of his life and everything, 
-hell it felt real just because someone slipped on a bannnana the world collapsed,  
+hell it felt real just because someone slipped on a banana the world collapsed,  
 he thought deeply how to capture the dream on canvas 
 man wasn't as invincible as jokes made them seem.
 
