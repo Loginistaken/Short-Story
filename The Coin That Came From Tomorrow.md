@@ -72,7 +72,7 @@ packet it had no reason to doubt. An auto-download triggered. a file downloaded 
 
 
 
-Albert never knew who.
+Albert knew who received the electron tunnel.
 
 Over the following years, strange ideas began circulating, small, ephemeral, whispered about by early enthusiasts who 
 felt clever for discovering them. Albert recognized the architecture immediately—the DNA of his own schematics hiding 
