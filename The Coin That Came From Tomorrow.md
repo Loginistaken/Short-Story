@@ -6,9 +6,9 @@ It was January 2026, and the world was still chuckling in the wake of last year�
 briefly made “attosecond electron tunneling” a phrase overheard in coffee shops before everyone collectively agreed 
 to stop pretending they understood it.
 
-Albert understood more now with his heightened astute Artifical Inelligence Quotient as
+Albert understood more now with his heightened capabilities he refrenced as his Artifical Inelligence Quotient as
 he jokingly refered to having AI at his fingure tips while 
-remaining in his witty class when trying to appeal to his coding coalueges all of whom knew he had a 
+remaining in his witty class when trying to appeal to his coding/IT coalueges all of whom knew he had a 
 profound IQ and were cleverly appeased to ever hear of his Vibe coing endeavors ect...
 
 He's been building a computer he was keeping a secret referring to as the Machine and finally!" it was done, he'd been up
