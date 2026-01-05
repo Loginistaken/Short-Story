@@ -16,11 +16,12 @@ Albert Madsen didn’t find much funny these days.
 He used have his P.H.D in comedy, focused as a writer — the kind of man who once made crowds roar on late-night TV. But he quit after the Incident. Now he worked as a behavioral linguist for the Federal NeuroDefense Corps — or what was left of it. His job: decode cognitive infections, linguistic pathogens, and “idea viruses.”
 He was a specialist in memetic toxicity — weaponized thoughts.
 
-So when the Joke spread, Albert was one of the few people immune. Not because he was special, but because his sense of humor was already dead.
+So when the Joke spread, Albert was one of the few people immune. Not because he was special, 
+but because his sense of humor was jaded and too keen.
 
 Page 3 — The Dying City
 
-The streets of D.C. had gone silent except for the occasional cackle drifting from an abandoned building.
+The streets of his home city in shambles, gone silent now except for the occasional shrill cackle of a repolsive laugh a bumb must have read vented in disbelief something had crossed his mind, Albert woundered what could cause so many casulities drifting from what sounded from the side walk's diection (where Albert was) to the area near an abandoned building.
 Graffiti read:
 
 “LAUGH OR DIE.”
