@@ -8,7 +8,7 @@ late-night monologues, and group chats—until the majority turn into the inevit
 swept it quietly into obscurity. Albert hadn’t abandoned it, nor was he lost in his idea
 .  
 He grasped the concept more deeply now, thanks to what he liked to call his “Artificial Intelligence Quotient a 
-deliberately corny term for the AI systems he treated less like software and more like collaborators. 
+deliberately silly term for the AI systems he treated less like software and more like collaborators. 
 They didn’t replace his thinking; they sharpened it, stretched it, challenged it at exactly the right moments.
 
 The joke landed especially well with his coding and IT friends, who recognized that beneath the
