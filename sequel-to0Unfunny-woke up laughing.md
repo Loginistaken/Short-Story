@@ -8,9 +8,9 @@ passing outside. He whispered, “Oh… thank God.”
 
 Mia stirred. “You okay?” she mumbled.
 
-“Yeah,” he said. “I think I just saved humanity in my sleep.”
+“Yeah,” he said. “I think we just died saving humanity in my dream.”
 
-She smiled without opening her eyes. “Do it again later. I’ve got a meeting at nine.”
+She smiled saying "I'm glad you said we" without opening her eyes. “Do it again later. I’ve got a meeting at nine.”
 
 Albert lay there, staring at the ceiling, heart still racing. He wanted to explain how in the dream the 
 joke had been based on bananas he believed in his dream this could be a reality after the bat scare,
@@ -19,9 +19,9 @@ afraid to laugh out loud tremendesouly.
 
 ---
 
-It was 4:03 a.m. when he gave up on sleep. Albert padded into the kitchen, poured coffee too hot,
-too strong, the way you do when you’re afraid the idea might evaporate if you blink too long. 
-He sat at his home PC, the familiar keyboard worn smooth beneath his fingers. Laughter as a disease.
+It was 4:03 A.M., he gave up on sleep. Albert tip-toed into the kitchen, poured coffee hot,
+and strong, the way you might when you’re afraid the idea might evaporate if you blink too long. 
+He sat at his home PC, the familiar keyboard worn smooth beneath his fingers. Laughter as a involuntary neurological disease.
 He typed it, then paused. He thought of the last few years — pandemics, isolation, 
 the way fear moved faster than truth, the way ideas spread before facts could catch them.
 He remembered watching the world laugh nervously through masks, through screens, through the 
