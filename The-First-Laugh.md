@@ -2,10 +2,17 @@
 Title: “Un-Funny laugh and you're out”
 A Dystopian 
 
-Page 1 — The First Laugh
+Page 1 — The First Laugh, they said it started with a video.
 
-They said it started with a video.
-Just a looping clip of a man slipping on a banana peel but slowed down in slow motion — then faster old-fashioned slapstick, the kind that used to make even the most sober smirk. The problem wasn’t the meme itself. It was the sound. A subtle, almost inaudible frequency baked into the file. Anyone who laughed — even chuckled — caught the “Joke.”
+Just a looping clip of a Chef in a crowded kitchen he had warn his fancy hat, which he must have recently 
+aquired as no one had seen it before to acompany his formal professional atire, the coat, the shoe and the pants all
+matching name brand. It was an aquired prestege, the suit spoke for its self 
+he was professional underlined the very ideology of his existense, Chef. His nature was artistic everything he touhced turned to 
+a picture perfect well planed meal, the menu was unique today there was left over banana as someone had been making banana bread and there were extra bananas, to peel and cut and mix in with the fruit salad, for the evening menu. Someone orders a salad and needes sliced cucumbers Chef knew was next on his list but he wanted to get one task done before he could get to that as there was lots of wait staff and it would be easier to finish one thing before starting the next, and a fellow Chef calls for the salad as Chefs finshing and a half peeled banana falls to the floor he starts to reply herd but is interupted as someone mentions the next order, as slides back to salad station to slice the cucumber for the salad but someone bumbs the his hip and he drops the cucmber, as he goes to pick it up he looses his hat, and a waiter says "call corner"
+as he washes the cucmber off the fellow Chef calls for the salad and says "can i get a herd on that", Chef returns to cut the cucumber replying  when luckily for Chef is only holding cucumber when his unblanced warn non-slip finds a 
+on a banana peel and the camera pans in as a spectator has casght Che  slipping  now the video is slowed down in slow-mo — then faster old-fashioned slapstick, the kind that used to make even 
+the most sober smirk. The problem wasn’t the meme itself. It was the sound. A subtle, almost inaudible frequency baked 
+into the file. Anyone who laughed — even chuckled — caught the “Joke.”
 
 At first, it was harmless. People couldn’t stop laughing. The streets filled with hysterical sounds — uncontrollable, animal-like laughter echoing through subways and hospitals. Then, the laughter turned violent. The muscles convulsed, lungs collapsed, brains hemorrhaged. The virus wasn’t biological. It was neurological.
 It spread through humor.
