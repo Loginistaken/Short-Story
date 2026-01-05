@@ -12,8 +12,7 @@ remaining in his witty class when trying to appeal to his coding coalueges all o
 profound IQ and were cleverly appeased to ever hear of his Vibe coing endeavors ect...
 
 He's been building a computer he was keeping a secret referring to as the Machine and finally!" it was done, he'd been up
-late for months on end, writting logic commands in CPP code language building tranmitter and a electron tunnel environent, he built the 
-chip to run the chip logic native binary into CPP, as the binary (which is electron) tunnel to older computer back in time as the coin writer guide (a crypto coin writer guide) is received user receives interactive coin guide, the system starts with around answer 800 questions coinreleated only, as the user interacts there are more interactive questions as the systems analyzes user interaction to expand.
+late for months on end, writting old code language for 2000era logic commands,and building tranmitter and a electron tunnel environent, he built the chip to run the chip logic native binary into CPP, as the binary (which is electron) tunnel to older computer back in time as the coin writer guide (a crypto coin writer guide) is received user receives interactive coin guide, the system starts with around answer 800 questions coinreleated only, as the user interacts there are more interactive questions as the systems analyzes user interaction to expand.
 
 “Macroscopic quantum tunneling,” he muttered, scrolling through articles on his screen. “Electrons jumping barriers 
 like bad punchlines skipping the setup. Clarke. Devoret. Martinis. They didn’t just watch particles tunnel—they made 
