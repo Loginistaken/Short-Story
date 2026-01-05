@@ -54,7 +54,7 @@ It never named a currency. It never predicted a market. It simply explained how 
 Albert ran the transmission.
 
 The machine hummed softly, embarrassed by its own ambition. The wireless card blinked. Somewhere—sometime—a system received a 
-packet it had no reason to doubt. An auto-download triggered. A file appeared. A human, curious and unsuspecting, opened it.                                                                                                    He called the program Coin Writer, mostly because the name sounded innocuous and because naming things was the closest Albert ever got to believing he had agency over the chaos he unleashed. The AI hummed obediently, diagrams and logic streams unfolding on the screen, obeying rules no one else understood but Albert could read like a comic strip.
+packet it had no reason to doubt. An auto-download triggered. a file downloaded pop-up appeared.                                                A human, curious and unsuspecting, clicked the file with subject titled "Like try next level AI" and opened it.                                   He called the program Coin Writer, mostly because the name sounded innocuous and because naming things was the closest Albert ever got to believing he had agency over the chaos he unleashed. The AI hummed obediently, diagrams and logic streams unfolding on the screen, obeying rules no one else understood but Albert could read like a comic strip.
 
 Coin Writer didn’t print money. That would have been vulgar. It taught principles: how scarcity behaves when enforced by 
 arithmetic rather than authority, how consensus can emerge without intermediaries, how value can exist without anyone
@@ -92,7 +92,6 @@ to the ghosts of electrons dancing through copper traces. “It isn’t. It’s 
 
 Mia, seated quietly beside him with her eternal cup of coffee, didn’t argue. Albert preferred it that way.
 
-“I didn’t invent the coins,” he continued, voice low, conspiratorial.
 “I just made sure the instructions arrived early enough to look inevitable. Like gravity. Like bad jokes. 
 Like electrons sneaking through barriers.”
 
