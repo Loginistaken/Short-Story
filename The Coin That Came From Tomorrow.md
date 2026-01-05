@@ -14,7 +14,7 @@ They didn’t replace his thinking; they sharpened it, stretched it, challenged 
 The joke landed especially well with his coding and IT friends, who recognized that beneath the
 humor was something real.Albert had a knack for what he called “vibe coding” and "vibe inventing" —late-night, 
 instinct-driven experiments where intuition led and logic followed just fast enough to keep up.
-This time he had formed rigid plans. The design is at lat a grand architecture. Created by curiosity, timing, 
+This time he had formed rigid plans. The design is at last a grand architecture. Created by curiosity, timing, 
 and a willingness to see where an idea wanted to go.
 
 Sometimes the results were nonsense.
