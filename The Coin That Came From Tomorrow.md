@@ -8,7 +8,7 @@ to stop pretending they understood it.
 
 Albert understood more now with his heightened astute Artifical Inelligence Quotient as
 he jokingly refered to having AI at his fingure tips while 
-remaining in his witty class when trying to appeal to the upper deck intelligence levels when coding ect his coalueges new he had a 
+remaining in his witty class when trying to appeal to his coding coalueges all of whom knew he had a 
 profound IQ and were cleverly appeased to ever hear of his Vibe coing endeavors ect...
 
 He's been building a computer he was keeping a secret referring to in his mind as the Machine and finally!" it was done, he'd been up
