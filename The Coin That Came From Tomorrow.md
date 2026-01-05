@@ -1,7 +1,7 @@
 The Coin That Came From Tomorrow
 
 Albert Madsen—comedian by night, quantum hobbyist by day—sat in his cluttered home office, surrounded by
-half-built PCs and teetering stacks of physics papers printed less out of necessity than ritual. 
+half-built PCs and teetering stacks of physics papers printed less out of necessity than supersistion. 
 It was January 2026, and the world was still basking in the afterglow of last year’s Nobel Prize
 in Physics—the one that had briefly transformed “attosecond electron tunneling” into a social-media curiosity 
 late-night monologues, and group chats—until the inevitable wave of blank stares and “wait, what?” replies 
