@@ -1,6 +1,7 @@
 The Coin That Came From Tomorrow
 
-Albert Madsen—comedian by night, quantum hobbyist by day—sat in his cluttered home office, surrounded by
+Albert Madsen—comedian by night, quantum hobbyist by day—sat, had been uplate 
+recently defying the  laws of his nature, in his cluttered home office, surrounded by
 half-built retro model PCs, wads of hand-worked Ethernet cabling and teetering stacks of physics 
 papers printed less out of necessity than supersistion. 
 It was January 2026, and the world was still conversing with excitment, last year’s Nobel Prize
