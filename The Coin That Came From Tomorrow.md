@@ -5,10 +5,10 @@ recently defying the  laws of his nature, in his cluttered home office, surround
 half-built retro model PCs, wads of hand-worked Ethernet cabling and teetering stacks of physics 
 papers printed less out of necessity than supersistion. It was early summer and he coded into the night he kept a fan going
 and the window open there were noisy crickets and a screech Owl that hooted late always on time to prompt coders block.
-It was January 2026, and the world was still conversing with excitment, last year’s Nobel Prize
+It was 2026, and the world was nearly over the excitment, last year’s Nobel Prize
 in Physics—the one that had briefly transformed “attosecond electron tunneling” into a social-media curiosity 
-late-night monologues, and group chats—until the majority turn into the inevitable wave of blank stares and “you lost me.” replies 
-swept it quietly into obscurity. Albert hadn’t abandoned it, nor was he lost in his idea
+late-night monologues, and group chats—until the majority turn into the inevitable wave of un-comfortable silence and “you lost me.” replies 
+finally swept it quietly into obscurity. Albert hadn’t abandoned it, nor was he lost in his idea
 .  
 He grasped the concept more deeply now, thanks to what he liked to call his “Artificial Intelligence Quotient a 
 deliberately silly term for the AI systems he treated less like software and more like collaborators. 
