@@ -20,7 +20,7 @@ instinct-driven experiments where intuition led and logic followed just fast eno
 This time he had formed rigid plans. The design is at last a grand architecture. Created by curiosity, timing, 
 and a willingness to see where an idea wanted to go.
 
-Honestly Albert didn't expct results this time.
+Honestly Albert didn't expect results this time.
 
 After studying binary Albert grasps how standard binary was merly electron sequences
 best desribed in laymens terms as a light bulb being flipped on and off 8 times (to git eight zeros and ones) standard ASCI 8 bit. The chip's 
