@@ -4,15 +4,16 @@ Albert Madsen—comedian by night, quantum hobbyist by day, had been up late
 recently defying the  laws of his nature, in his cluttered home office, surrounded by
 half-built 2000 era PCs, wads of hand-worked Ethernet cabling and teetering stacks of physics 
 papers printed less out of necessity than supersistion. It was early summer and he coded into the night he kept a fan going
-and the window open there were noisy crickets and a screech Owl that hooted late always on time to prompt coders block.
+and the window open there were noisy crickets and a screech owl that hooted late always on time to prompt coders block.
 It was 2026, and the world was nearly over the excitment, last year’s Nobel Prize
-in Physics—the one that had briefly transformed “attosecond electron tunneling” into a social-media curiosity 
+in Physics  “attosecond electron tunneling” briefly transformed into a short term quantum revolution on
 late-night monologues, and group chats—until the majority turn into the inevitable wave of un-comfortable silence and “you lost me.” replies 
 finally swept it quietly into obscurity. Albert hadn’t abandoned it, nor was he lost in his idea
 .  
 He grasped the concept more deeply now, thanks to what he liked to call his “Artificial Intelligence Quotient a 
-deliberately silly term for the AI systems he treated less like software and more like collaborators. 
-They didn’t replace his thinking; they sharpened it, stretched it, challenged it at exactly the right moments.
+silly term he coined for the AI system he merged with to witness new boundries in quotient
+he treated less like software and more like a fellow collaborator. 
+Which didn’t replace his thinking; the merge accelerated it, filled in the gaps, challenged it at exactly the right moments.
 
 The joke landed especially well with his coding and IT friends, who recognized that beneath the
 humor was something real (Albert's IQ).Albert had a knack for what he called “vibe coding” and "vibe inventing" —late-night, 
@@ -23,12 +24,12 @@ and a willingness to see where an idea wanted to go.
 Honestly Albert didn't expect results this time.
 
 After studying binary Albert grasps how standard binary was merly electron sequences
-best desribed in laymens terms as a light bulb being flipped on and off 8 times (to git eight zeros and ones) standard ASCI 8 bit. The chip's 
-lattice was the lightbulb, he'd studied how humanity had started using hybrid photon-electron stystems since the turn of the centry but
+best desribed in laymens terms as a light bulb being flipped on and off 8 times (to git eight zeros and ones) standard ASCI 8 bit. Albert built the chip to the transmitter and had been using different frequencies as he toned the Hz frequency with the transmitter,                          he had studied how technology started using hybrid photon-electron stystems since the turn of the centry but
 2000 era equipment would be prime for wireless binary to trigger download the program. Photons didnt perform electron (tunnel) magic and backwards compatiblity was like a glitch for a more sophisticated computer to solve.
 
-After research Albert begain building a super computer he was keeping a secret and referring to (only to his wife as the Machine)
-and finally!" it was done, he'd been up late for months on end, writting old code language for 2000 era logic commands,and building the signal's transmitter and a electron tunnel environment, he built the chip to run the chip logic native binary into CPP, as the binary (which is electron) tunnel to older computer back in time as the coin writer guide (a crypto coin writer guide) is received user receives interactive coin guide, the system starts with around answer 800 questions coinreleated only, as the user interacts there are more interactive questions as the systems analyzes user interaction to expand.
+After research Albert begain building a super computer he was keeping a secret and referring to (only his wife as the Machine)
+and finally!" it was done, he'd been up late for months on end, writting old code language for 2000 era logic binary for a CPP code 
+as it was a langauge that was releavent to the turn of the century,and building the signal's transmitter and a electron tunnel environment, he built the chip to run the chip logic native binary into CPP, as the binary (which is electron) tunnel to older computer back in time as the coin writer guide (a crypto coin writer guide) is received user receives interactive coin guide, the system starts with around answer 800 questions coinreleated only, as the user interacts there are more interactive questions as the systems analyzes user interaction to expand.
 
 “Macroscopic quantum tunneling,” he muttered, scrolling through articles on his screen. “Electrons jumping barriers 
 like bad punchlines skipping the setup. Clarke. Devoret. Martinis. They didn’t just watch particles tunnel—they made 
