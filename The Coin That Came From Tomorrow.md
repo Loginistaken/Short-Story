@@ -28,8 +28,11 @@ best desribed in laymens terms as a light bulb being flipped on and off 8 times 
 2000 era equipment would be prime for wireless binary to trigger download the program. Photons didnt perform electron (tunnel) magic and backwards compatiblity was like a glitch for a more sophisticated computer to solve.
 
 After research Albert begain building a super computer he was keeping a secret and referring to (only his wife as the Machine)
-and finally!" it was done, he'd been up late for months on end, writting old code language for 2000 era logic binary for a CPP code 
-as it was a langauge that was releavent to the turn of the century,and building the signal's transmitter and a electron tunnel environment, he built the chip to run the chip logic native binary into CPP, as the binary (which is electron) tunnel to older computer back in time as the coin writer guide (a crypto coin writer guide) is received user receives interactive coin guide, the system starts with around answer 800 questions coinreleated only, as the user interacts there are more interactive questions as the systems analyzes user interaction to expand.
+and finally it was done. He had been up late for months on end, writing old code language for 2000 era logic in binary for a CPP code,
+as it was a langauge that was releavent to the turn of the century. He built the signal's transmitter and a electron tunnel environment, 
+he also handcrafted and sodered the chip constructing custom with the ability run the chip logic native binary into CPP,
+as the binary. Centered the theory around elctron tunnel where frequencies incounter time crystal on chip the barrier dosent obsruct
+the electron the suns rotaion dosent remain a coherent measuremnt as time becomes obcsure the message is inherited to older computer back in time as the coin writer guide (a crypto coin writer guide) is received user receives interactive coin guide, the system starts with around answer 800 questions coinreleated only, as the user interacts there are more interactive questions as the systems analyzes user interaction to expand.
 
 “Macroscopic quantum tunneling,” he muttered, scrolling through articles on his screen. “Electrons jumping barriers 
 like bad punchlines skipping the setup. Clarke. Devoret. Martinis. They didn’t just watch particles tunnel—they made 
