@@ -30,9 +30,10 @@ best desribed in laymens terms as a light bulb being flipped on and off 8 times 
 After research Albert begain building a super computer he was keeping a secret and referring to (only his wife as the Machine)
 and finally it was done. He had been up late for months on end, writing old code language for 2000 era logic in binary for a CPP code,
 as it was a language that was releavent to the turn of the century. He built the signal's transmitter and a electron tunnel environment, 
-he also handcrafted and sodered the chip constructing custom with the ability run the chip logic native binary into CPP,
-as the binary. Centered the theory around electron tunnel where frequencies incounter time crystal on chip the barrier dosent obsruct
-the electron the suns rotaion dosent remain a coherent measuremnt as time becomes obcsure the message is inherited to older computer back in time as the coin writer guide (a crypto coin writer guide) is received user receives interactive coin guide, the system starts with around answer 800 questions coinreleated only, as the user interacts there are more interactive questions as the systems analyzes user interaction to expand.
+he also handcrafted and sodered the chip constructing it custom with the ability to run the chip logic (on chip) native binary into CPP,
+(basically code in binary, binary at a certian frquency). 
+Centered the theory around electron tunnel where frequencies incounter time crystal on chip the barrier dosent obsruct
+the electron the suns rotaion dosent remain a coherent measuremnt as time becomes obcsure the message is inherited to older computer back in time as the coin writer guide (a crypto writer guide) is received user receives interactive coin guide, the system starts with around 8oo interacative answers to user questions, all coin releated only, as the user interacts there are more interactive questions as the systems analyzes user interaction to expand.
 
 “Macroscopic quantum tunneling,” he muttered, scrolling through articles on his screen. “Electrons jumping barriers 
 like bad punchlines skipping the setup. Clarke. Devoret. Martinis. They didn’t just watch particles tunnel—they made 
