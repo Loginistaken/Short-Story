@@ -31,7 +31,7 @@ After research Albert begain building a super computer he was keeping a secret a
 and finally it was done. He had been up late for months on end, writing old code language for 2000 era logic in binary for a CPP code,
 as it was a language that was releavent to the turn of the century. He built the signal's transmitter and a electron tunnel environment, 
 he also handcrafted and sodered the chip constructing custom with the ability run the chip logic native binary into CPP,
-as the binary. Centered the theory around elctron tunnel where frequencies incounter time crystal on chip the barrier dosent obsruct
+as the binary. Centered the theory around electron tunnel where frequencies incounter time crystal on chip the barrier dosent obsruct
 the electron the suns rotaion dosent remain a coherent measuremnt as time becomes obcsure the message is inherited to older computer back in time as the coin writer guide (a crypto coin writer guide) is received user receives interactive coin guide, the system starts with around answer 800 questions coinreleated only, as the user interacts there are more interactive questions as the systems analyzes user interaction to expand.
 
 “Macroscopic quantum tunneling,” he muttered, scrolling through articles on his screen. “Electrons jumping barriers 
