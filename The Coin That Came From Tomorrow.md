@@ -51,10 +51,11 @@ them fall out of his head in the correct order.
 He returned to his desk and opened a simulation he’d been running for months, assisted by a new AI program that stitched
 together real quantum research with alarming creativity. It had pulled concepts from experimental repositories—projects 
 like eLECTRON-tunneL-DATA—that explored how electron spin and tunneling events could be read, buffered, and translated 
-into classical signals. Not quantum computing in the flashy sense. Something more practical. More sneaky.
+into classical signals. Not quantum computing in the flashy sense. Something more practical.
 
 “If you can read a tunneling event,” Albert explained to no one in particular, “you can turn uncertainty into a pulse. 
-A pulse into a frequency. A frequency into binary. And once it’s binary, it stops being physics and starts being paperwork.”
+A pulse into a frequency. A frequency into binary wrapped in my 2000 era code language of choice.
+And the code into binary (wrapped) is beyond physics and it's too much paperwork which is done be AI.”
 
 The simulation highlighted a carrier band: 137 megahertz. Albert smiled. Old, stable, almost nostalgic. A frequency 
 that didn’t raise eyebrows or trigger audits. The kind of signal legacy systems accepted without suspicion, like a fax from the universe.
@@ -79,8 +80,9 @@ It never named a currency. It never predicted a market. It simply explained how 
 
 Albert ran the transmission.
 
-The machine hummed softly, embarrassed by its own ambition. The wireless card blinked. Somewhere—sometime—a system received a 
-packet it had no reason to doubt. An auto-download triggered. a file downloaded pop-up appeared.                                                A human, curious and unsuspecting, clicked the file with subject titled "Like try next level AI" and opened it.                                   He called the program Coin Writer, mostly because the name sounded innocuous and because naming things was the closest Albert ever got to believing he had agency over the chaos he unleashed. The AI hummed obediently, diagrams and logic streams unfolding on the screen, obeying rules no one else understood but Albert could read like a comic strip.
+The machine hummed softly, embarrassed by its own ambition. The wireless card blinked. Somewhere, someone back in time— received a 
+packet he had no reason to doubt. An auto-download triggered. a file downloaded pop-up appeared.                                                A human, curious and unsuspecting, clicked the file with subject titled "Like try next level AI" and opened it.                                   He called the program Coin Writer, mostly because the name sounded innocent as an anonymous butterfly effect with only the best intent.
+The AI hummed obediently, diagrams and logic streams unfolding on the screen, obeying rules no one else understood but Albert could read like a comic strip.
 
 
 
@@ -102,8 +104,9 @@ a spectator to the architecture of desire and trust.
 
 One person became a multimillionaire overnight. Another became a footnote, unnamed, invisible to the newspapers that pretended to care.
 
-Albert sat among the half-built computers,scattered AirPort 802.11b wirless net cards for retro comps,and chips he'd welded with Ai blueprints 
-schematics from directions incoporating his ideas, the blinking LEDs casting a soft glow over his hair now streaked with gray. 
+Albert sat among the half-built computers,scattered AirPort 802.11b wirless net cards for 2000 era comps,
+and chips he'd welded with Ai blueprints schematics from directions incoporating his ideas, 
+the blinking LEDs casting a soft glow over his hair now streaked with gray. 
 He felt the peculiar weight of ideas grown too large to be contained—ideas that were 
 no longer his but everyone’s, yet belonged to no one.
 
