@@ -10,7 +10,7 @@ in Physics  “attosecond electron tunneling” briefly transformed into a short
 late-night monologues, and group chats—until the majority turn into the inevitable wave of un-comfortable silence and “you lost me.” replies 
 finally swept it quietly into obscurity. Albert hadn’t abandoned it, nor was he lost in his idea
 .  
-He grasped the concept more deeply now, thanks to what he liked to call his “Artificial Intelligence Quotient a 
+He grasped the concept more deeply now, thanks to what he liked to call his “Artificial Intelligence Quotient" a 
 silly term he coined for the AI system he merged with to witness new boundries in quotient
 he treated less like software and more like a fellow collaborator. 
 Which didn’t replace his thinking; the merge accelerated it, filled in the gaps, challenged it at exactly the right moments.
@@ -29,7 +29,7 @@ best desribed in laymens terms as a light bulb being flipped on and off 8 times 
 
 After research Albert begain building a super computer he was keeping a secret and referring to (only his wife as the Machine)
 and finally it was done. He had been up late for months on end, writing old code language for 2000 era logic in binary for a CPP code,
-as it was a langauge that was releavent to the turn of the century. He built the signal's transmitter and a electron tunnel environment, 
+as it was a language that was releavent to the turn of the century. He built the signal's transmitter and a electron tunnel environment, 
 he also handcrafted and sodered the chip constructing custom with the ability run the chip logic native binary into CPP,
 as the binary. Centered the theory around elctron tunnel where frequencies incounter time crystal on chip the barrier dosent obsruct
 the electron the suns rotaion dosent remain a coherent measuremnt as time becomes obcsure the message is inherited to older computer back in time as the coin writer guide (a crypto coin writer guide) is received user receives interactive coin guide, the system starts with around answer 800 questions coinreleated only, as the user interacts there are more interactive questions as the systems analyzes user interaction to expand.
