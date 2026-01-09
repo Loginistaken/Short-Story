@@ -41,9 +41,9 @@ if the universe carried an internal echo.
 The first crack in his certainty came from memory.
 
 Technology began to feel wrong to him—not broken, not unfamiliar, but temporally misaligned. Release dates slipped
-several felt a decade late. He went to a psychologist at point affraid to admit when he remembered an entire website
-from 2003 down to GUI charecter an icon you click for user interactive when he told the therapist and it wans't out till 2020 
-the Doc couldn't relate says it happens alot and went over a list of medications that made Albert groggy. 
+several felt a decade late. He went to a psychologist at one point affraid to admit when he remembered an entire website
+from 2003 down to GUI charecter an icon you click for user interactive when he told the therapist and confessed the site 
+wans't out till 2020 the Doc couldn't relate says it happens alot and went over a list of medications that made Albert groggy. 
 Sometimes the creator of a token or logo was too young, impossibly so, as if they had 
 authored something before they were old enough to misunderstand it.
 
