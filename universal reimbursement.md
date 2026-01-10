@@ -1,6 +1,7 @@
-Albert Madsen sat in the quiet aftermath of invention, the soft hum of the Machine filling 
+Albert Madsen sat in the quiet aftermath of the invention's butterfly effect, the soft hum of the Machine filling 
 the room like a heartbeat he could almost feel in his own chest. The Coin Writer Guide had spread through time, 
-ripple by ripple, and somewhere out there, billions were building fortunes without ever knowing the source. 
+by frequency, a binary code that was wrapped in postscript trigger and C user interactive crypto coin builder
+ and somewhere out there, billions were building fortunes without ever knowing the source. 
 And yet, Albert didn’t feel pride. Not yet.
 
 At first, it was subtle. Albert noticed a new, magnificent power he may have received as a kind of universal reimbursement. 
