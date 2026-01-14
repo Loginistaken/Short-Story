@@ -8,7 +8,7 @@ and the window open there were noisy crickets and a screech owl that hooted late
 It was 2026, and the world was nearly over the excitment, last year’s Nobel Prize
 in Physics  “attosecond electron tunneling” briefly transformed into a short term quantum revolution on
 late-night monologues, and group chats—until the majority turn into the inevitable wave of un-comfortable silence and “you lost me.” replies 
-finally swept it quietly into obscurity. Albert hadn’t abandoned it, nor was he lost in his idea
+finally swept it quietly into obscurity. Albert hadn’t abandoned it, nor was he lost in his idea.
 .  
 He grasped the concept more deeply now, thanks to what he liked to call his “Artificial Intelligence Quotient" a 
 silly term he coined for the AI system he merged with to witness new boundries in quotient
@@ -24,8 +24,20 @@ and a willingness to see where an idea wanted to go.
 
 
 After studying binary Albert grasps how standard binary was merly electron sequences
-best desribed in laymens terms as a light bulb being flipped on and off 8 times (to git eight zeros and ones) standard ASCI 8 bit. Albert built the chip to the transmitter and had been using different frequencies as he toned the Hz frequency with the transmitter,                          he had studied how technology started using hybrid photon-electron stystems since the turn of the centry but
+best desribed in laymens terms as a light bulb being flipped on and off 8 times (to git eight zeros and ones) standard ASCI 8 bit. 
+Albert built the chip to the transmitter and had been using different frequencies as he toned the Hz frequency with the transmitter,            he had studied how technology started using hybrid photon-electron stystems since the turn of the centry but
 2000 era equipment would be prime for wireless binary to trigger download the program. Photons didnt perform electron (tunnel) magic and backwards compatiblity was like a glitch for a more sophisticated computer to solve.
+
+Albert, always smiled at the old classroom joke: never a ball, always a rock. You throw a rock at a wall and it should stop—end of story. 
+That certainty is the setup. Physics uses the rock because it feels final, heavy, unforgettable. Then comes the punchline: an electron sometimes appears on the other side anyway. The confusion is deliberate. Good teachers usually guide us toward what to do, but here physics starts with a firm don’t: this should not happen. The laugh comes when nature ignores the rule, and the student realizes the analogy was never meant to be trusted for long.
+
+As Albert eventually learns, electrons are not stubborn objects trying to smash through walls; they are waves spread out as distributions across dimensions. In those dimensions—space, momentum, phase—the wall is not an absolute stop but a boundary where the wave fades and occasionally continues. That’s why the rock analogy must be dropped once it has done its job. Some scientists still cling to it, overlooking the wave picture and missing the music entirely. A better image is a note leaking through a wall: not breaking it, not cheating, just following the mathematics of frequency. The joke matures with understanding—first you laugh at the rock, then you stop throwing it.
+
+
+
+
+
+
 
 After research Albert begain building a super computer he was keeping a secret and referring to (only his wife as the Machine)
 and finally it was done. He had been up late for months on end, writing old code language for 2000 era logic in binary for a CPP code,
