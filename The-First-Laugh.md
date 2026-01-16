@@ -2,14 +2,25 @@
 Title: “Un-Funny laugh and you're out”
 A Dystopian 
 
-Page 1 — The First Laugh, they said it started with a video.
+Page 1 — The First Laugh, they said it started at a dark and errie insane asylum.
 
-A video camera pointed a Chef in a crowded kitchen his formal professional atire, the coat, the shoes and the pants all
-matching name brand. It was an aquired prestege, the suit spoke for its self 
-he was professional underlined the very ideology of his existense, Chef. His nature was artistic everything he touhced turned to 
-a picture perfect well planed meal, the menu was unique today there was left over banana as someone had been making banana bread and there were extra bananas, to peel and cut and mix in with the fruit salad, for the evening menu. Someone orders a salad and needes sliced cucumbers Chef knew was next on his list but he wanted to get one task done before he could get to that as there was lots of wait staff and it would be easier to finish one thing before starting the next, and a fellow Chef calls for the salad as Chefs finshing and a half peeled banana falls to the floor he starts to reply herd but is interupted as someone mentions the next order, as slides back to salad station to slice the cucumber for the salad but someone bumbs the his hip and he drops the cucmber, as he washes the cucmber off the fellow Chef calls for the salad and says "can i get a herd on that", Chef returns to cut the cucumber replying  when luckily for Chef is only holding cucumber when his unblanced warn non-slip finds a on a banana peel and the camera pans in as a spectator has caught Chef slipping  now the video is slowed down in slow-mo — then faster old-fashioned slapstick, the kind that used to make even 
-the most sober smirk. The problem wasn’t the meme itself. It was the sound. A subtle, almost inaudible frequency baked 
-into the file. Anyone who laughed — even chuckled — caught the “Joke.”
+It was cusp noramal somewhere round twenty eighteen er twenty nineteen, worsening economies in the city lead to more
+homless population there was an overall glum outlook to a the poor. As some recently had recently found themselves on the streets
+the where spirtually lost and made new friends amongest the bumbs. Of course no one knows the exact origin, or the intial carrier even what the joke was but there were some key clues, recent reports showed increase in epidemiological data indicate that even microgram-level exposures, often occurring unintentionally through adulterated pharmaceuticals or recreational substances, significantly increase acute respiratory depression risk. The diffusion of these compounds across communities has contributed to complex poly-drug toxicity patterns, challenging traditional harm-reduction strategies and surveillance methodologies.”
+Patients seeked refuge from the streets and their addictions others forced to live there. The asylum was a sppoky castle
+stone and dark from age with moss and rusted steel beams, was elevated into the moonlight and drew the clouds to its castle peak.
+The first arrivals were ragged, hollow-eyed, but with sparks of something unhinged in their gaze. 
+The streets had chewed them up and spat them out, leaving nervous energy, twitching limbs, and a nervous mania for 
+anything that could bring relief — pills, powders, fumes, even the faintest whiff of a joke.
+
+Some sought sanctuary in the asylum, drawn less by medicine than by the promise of controlled chaos. Within those peeling walls, laughter became a language of survival. It rang off the cracked tiles and rusted iron bars,
+sometimes rising spontaneously, sometimes as a symptom of a delirium induced by withdrawal.
+Night after night, the echoes of madmen’s chuckles intertwined with moans, mutterings, and the occasional scream — a grotesque symphony orchestrated by the desperate and the deranged.
+
+The joke — whatever it had been on the streets — transformed inside. It became a virus of the mind, accelerated by desperation and chemical imbalance. One man laughed at shadows, another wept at silence, and yet another performed entire pantomimes of invisible conversations. 
+Staff whispered about micrograms, exposure, and poly-drug toxicity — but the real epidemic was human chaos, and no clipboard could measure it.
+
+Even the Doctor at the assylum the main psychoanalyst smirked it was enough.Anyone who laughed — even chuckled — caught the “Joke.”
 
 At first, it was harmless. People couldn’t stop laughing. The streets filled with hysterical sounds — uncontrollable, animal-like laughter echoing through subways and hospitals. Then, the laughter turned violent. The muscles convulsed, lungs collapsed, brains hemorrhaged. The virus wasn’t biological. It was neurological.
 It spread through humor.
@@ -27,7 +38,7 @@ Page 3 — The Dying City
 
 The streets of his home city in shambles, gone silent now except for the occasional shrill cackle of a repolsive laugh a bumb must have read the graffiti and vented aloud in disbelief something had crossed his mind, Albert woundered what on Earth the crackle could have been as response
 to, Albert knew the urge to investigate things would be the end of him. In the beginning he used his intuition to converse the intial contagion
-at point zero, with Mia his girlfriend at the time, they had stayed away from the news long enough to see ground zero the epicenter and the broadcaster did a professonal job keeping it serious as they prounced the chef deceased no one thought  it was one funny by this piont, but now the virus was mutating it seemed if anyone laughed at anything they died. As a comedian Albert hated how it killed the urge that tickled him to want chime in, so he kept a straight face and did so anyway, "Should have worn better non-slips" Mia gasps her since of humor wasn't dead she could only but sympathize, thats how Albert and Mia learned of how serious this neural virus was cause so many casulities drifting from what sounded from the side walk's diection (where Albert was) to the area near an abandoned building.
+at point zero, with Mia his girlfriend at the time, they had stayed away from the news long enough to see ground zero the epicenter and the broadcaster did a professonal job keeping it serious as they prounced the Doctor of the notourious instiution deceased no one thought  it was one funny by this piont, but now the virus was mutating it seemed if anyone laughed at anything they died. As a comedian Albert hated how it killed the urge that tickled him to want chime in, so he kept a straight face and did so anyway, "I hated the recording of the asylums crackles" Mia gasps her since of humor wasn't dead she could only but sympathize, thats how Albert and Mia learned of how serious this neural virus was cause so many casulities drifting from what sounded from the side walk's diection (where Albert was) to the area near an abandoned building.
 Graffiti read:
 
 “LAUGH OR DIE.”
