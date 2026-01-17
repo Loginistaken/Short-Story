@@ -4,10 +4,10 @@ A Dystopian
 
 Page 1 — The First Laugh, they said it started at a dark and errie insane asylum.
 
-It was cusp noramal somewhere round twenty eighteen er twenty nineteen, worsening economies in the city lead to more
+It was cusp normal somewhere round twenty eighteen er twenty nineteen, worsening economies in the city lead to more
 homless population there was an overall glum outlook to a the poor. As some recently had recently found themselves on the streets
 the where spirtually lost and made new friends amongest the bumbs. Of course no one knows the exact origin, or the intial carrier even what the joke was but there were some key clues, recent reports showed increase in epidemiological data indicate that even microgram-level exposures, often occurring unintentionally through adulterated pharmaceuticals or recreational substances, significantly increase acute respiratory depression risk. The diffusion of these compounds across communities has contributed to complex poly-drug toxicity patterns, challenging traditional harm-reduction strategies and surveillance methodologies.”
-Patients seeked refuge from the streets and their addictions others forced to live there. The asylum was a sppoky castle
+Patients seeked refuge from the streets and their addictions others forced to live there. The asylum was a spooky castle
 stone and dark from age with moss and rusted steel beams, was elevated into the moonlight and drew the clouds to its castle peak.
 The first arrivals were ragged, hollow-eyed, but with sparks of something unhinged in their gaze. 
 The streets had chewed them up and spat them out, leaving nervous energy, twitching limbs, and a nervous mania for 
@@ -20,7 +20,8 @@ Night after night, the echoes of madmen’s chuckles intertwined with moans, mut
 The joke — whatever it had been on the streets — transformed inside. It became a virus of the mind, accelerated by desperation and chemical imbalance. One man laughed at shadows, another wept at silence, and yet another performed entire pantomimes of invisible conversations. 
 Staff whispered about micrograms, exposure, and poly-drug toxicity — but the real epidemic was human chaos, and no clipboard could measure it.
 
-Even the Doctor at the assylum the main psychoanalyst smirked it was enough.Anyone who laughed — even chuckled — caught the “Joke.”
+Even the Doctor at the assylum the main psychoanalyst smirked and irked his will to giggle he began to convulse.
+Anyone who laughed — even chuckled — caught the “Joke.”
 
 At first, it was harmless. People couldn’t stop laughing. The streets filled with hysterical sounds — uncontrollable, animal-like laughter echoing through subways and hospitals. Then, the laughter turned violent. The muscles convulsed, lungs collapsed, brains hemorrhaged. The virus wasn’t biological. It was neurological.
 It spread through humor.
@@ -36,9 +37,7 @@ but because his sense of humor was jaded and too keen.
 
 Page 3 — The Dying City
 
-The streets of his home city in shambles, gone silent now except for the occasional shrill cackle of a repolsive laugh a bumb must have read the graffiti and vented aloud in disbelief something had crossed his mind, Albert woundered what on Earth the crackle could have been as response
-to, Albert knew the urge to investigate things would be the end of him. In the beginning he used his intuition to converse the intial contagion
-at point zero, with Mia his girlfriend at the time, they had stayed away from the news long enough to see ground zero the epicenter and the broadcaster did a professonal job keeping it serious as they prounced the Doctor of the notourious instiution deceased no one thought  it was one funny by this piont, but now the virus was mutating it seemed if anyone laughed at anything they died. As a comedian Albert hated how it killed the urge that tickled him to want chime in, so he kept a straight face and did so anyway, "I hated the recording of the asylums crackles" Mia gasps her since of humor wasn't dead she could only but sympathize, thats how Albert and Mia learned of how serious this neural virus was cause so many casulities drifting from what sounded from the side walk's diection (where Albert was) to the area near an abandoned building.
+The streets of his home city in shambles, gone silent now except for the occasional shrill cackle of a repolsive laugh a bumb must have read the graffiti and vented aloud in disbelief something had crossed his mind, Albert woundered what on Earth the crackle could have been as response to, Albert knew the urge to investigate things would be the end of him. In the beginning he used his intuition to converse the intial contagion at point zero, with Mia his girlfriend at the time, they had stayed away from the news long enough to see ground zero the epicenter and the broadcaster did a professonal job keeping it serious as they prounced the Doctor of the notourious instiution deceased no one thought  it was one funny by this piont, but now the virus was mutating it seemed if anyone laughed at anything they died. As a comedian Albert hated how it killed the urge that tickled him to want chime in, so he kept a straight face and did so anyway, "I hated the recording of the asylums crackles" Mia gasps her since of humor wasn't dead she could only but sympathize, thats how Albert and Mia learned of how serious this neural virus was cause so many casulities drifting from what sounded from the side walk's diection (where Albert was) to the area near an abandoned building.
 Graffiti read:
 
 “LAUGH OR DIE.”
