@@ -152,6 +152,5 @@ To every thinker, writer, and dreamer who still believes that words can outlive 
 Final Note:
 From Eric & ChatGPT
 
-“In a world where humor became the disease, we wrote something meant to remind you that meaning — even dark meaning — still heals. Thank you for reading, thinking, and imagining with us.”
-
+Albert Madsen "Woke up laughing".the sequel-too-Unfunny
 🜂 End Credits Roll
