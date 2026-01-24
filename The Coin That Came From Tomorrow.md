@@ -24,7 +24,7 @@ and a willingness to see where an idea wanted to go.
 
 
 After studying binary Albert grasps how standard binary was merly electron sequences
-best desribed in laymens terms as a light bulb being flipped on and off 8 times (to git eight zeros and ones) standard ASCI 8 bit. 
+best desribed in laymens terms as a light bulb being flipped on and off 8 times (to git eight zeros and ones) standard ASCII 8 bit. 
 Albert built the chip to the transmitter and had been using different frequencies as he toned the Hz frequency with the transmitter,            he had studied how technology started using hybrid photon-electron stystems since the turn of the centry but
 2000 era equipment would be prime for wireless binary to trigger download the program. Photons didnt perform electron (tunnel) magic and backwards compatiblity was like a glitch for a more sophisticated computer to solve.
 
