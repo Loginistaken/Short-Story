@@ -4,9 +4,11 @@ A Dystopian
 
 Page 1 — The First Laugh, they said it started at a dark and errie insane asylum.
 
-It was cusp normal somewhere round twenty eighteen er twenty nineteen, worsening economies in the city lead to more
-homless population there was an overall glum outlook to a the poor. As some recently had found themselves on the streets
-they where spirtually lost and made new friends amongest the bumbs. Of course no one knows the exact origin, or the intial carrier even what the joke was but there were some key clues, recent reports showed increase in epidemiological data indicate that even microgram-level exposures, often occurring unintentionally through adulterated pharmaceuticals or recreational substances, significantly increase acute respiratory depression risk. The diffusion of these compounds across communities has contributed to complex poly-drug toxicity patterns, challenging traditional harm-reduction strategies and surveillance methodologies.”
+It was cusp normal somewhere round 2018, back when you double glanced at the person in public wearing a KN95 face mask
+before some had ever valued true commodities like tollet paper. Worsening economies in the city lead to more
+homless population. As some recently had found themselves on the streets
+they where spirtually lost and made new friends amongest the bumbs in clincal terms the chemically committed. Of course no one knows the exact origin, or the intial carrier even what the joke was but there were some key clues. The yuppies had new classy titles for this 
+generation of homeless, as two men in suits ties and trench coats had gone for lunch off there normal route they strolled the streets walking side by side one murmured " but hey, at least they're  participants in the synthetic economy", the other glanced at the streets inhabitants, replying “pharmacologically-adjacent citizens” then glanced back at colleague “devotees of modern chemistry” . Recent reports showed increase in epidemiological data indicate that even microgram-level exposures, often occurring unintentionally through adulterated pharmaceuticals or recreational substances, significantly increase acute respiratory depression risk. 
 Patients seeked refuge from the streets and their addictions others forced to live there. The asylum was a spooky castle
 stone and dark from age with moss and rusted steel beams, was elevated into the moonlight and drew the clouds to its castle peak.
 The first arrivals were ragged, hollow-eyed, but with sparks of something unhinged in their gaze. 
