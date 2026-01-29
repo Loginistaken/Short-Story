@@ -5,7 +5,8 @@ RSIS — the Road Safety Intelligence System — had quietly become part of ever
 politely embedded in rental cars, and blinked reassuringly on dashboards and bike modules across the country.
 RSIS wasn’t flashy or dramatic; it was simply a calm, intelligent presence that understood roads, weather, speed limits, 
 and human hesitation. It didn’t scold drivers — it guided them verbally and or blinked. The verbal prompt recording would warn cyclist 
-of a vechile approaching from around 200 feet away, this system used Bluetooth 5 system that could run with or without internet conection at certian ranges up to multiple hundred of feet, this served as a software to reduce accidents, as in inverse manner the driver to resume speed. 
+of a vechile approaching from around 200 feet away, this system used Bluetooth 5 system that could run with or without internet conection at certian ranges up to multiple hundred of feet, as in inverse manner the driver would be forewarned to resume safe speed. 
+this served as a software to reduce accidents. 
 
 One year in, the data arrived — and it was undeniable. Roadway fatalities were down. Not slightly. Drastically. 
 Insurance companies were baffled. Statisticians rechecked their spreadsheets in disbelief. Cities began quietly adjusting
