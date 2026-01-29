@@ -1,10 +1,11 @@
-Albert Madsen invented it because he hated accidents, loved patterns, and once watched three people nearly
+Albert Madsen invented it because he feared accidents, loved patterns, and once watched three people nearly
 die at the same intersection while arguing about whose turn it was. Mia, his longtime collaborator and reality-check, 
 helped translate Albert’s dense math-brain logic into something ordinary people could live with. A year after its release, 
-RSIS — the Road Safety Intelligence System — had quietly become part of everyday life. It came preinstalled on new phones, 
+RSIS — the Road Safety Intelligence System — had quietly become part of everyday life. It came preinstalled on new phones a mobile app, 
 politely embedded in rental cars, and blinked reassuringly on dashboards and bike modules across the country.
 RSIS wasn’t flashy or dramatic; it was simply a calm, intelligent presence that understood roads, weather, speed limits, 
-and human hesitation. It didn’t scold drivers — it guided them verbally and or blinked.
+and human hesitation. It didn’t scold drivers — it guided them verbally and or blinked. The verbal prompt recording would warn cyclist 
+of a vechile approaching from around 200 feet away, this system used Bluetooth 5 system that could run with or without internet conection at certian ranges up to multiple hundred of feet, this served as a software to reduce accidents, as in inverse manner the driver to resume speed. 
 
 One year in, the data arrived — and it was undeniable. Roadway fatalities were down. Not slightly. Drastically. 
 Insurance companies were baffled. Statisticians rechecked their spreadsheets in disbelief. Cities began quietly adjusting
