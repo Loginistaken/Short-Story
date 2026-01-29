@@ -40,4 +40,4 @@ More nudges than commands. More reminders that safety was shared. More humility 
 Albert didn’t fix the universe. He just kept it from tipping. Somewhere that night, a dashboard light blinked quietly
 — no sound, no drama — and a life continued, slightly altered and slightly safer, unaware it had ever been almost a statistic. 
 Mia raised a glass to boring outcomes. Albert smiled and toasted to everyone still being around to complain about them.
-
+By Eric Lindau thanks ChatGPT5
