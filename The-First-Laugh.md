@@ -16,13 +16,14 @@ Patients seeked refuge from the streets and their addictions others forced to li
 stone and dark from age with moss and rusted steel beams, was elevated into the moonlight and drew the clouds to its castle peak.
 The first arrivals were ragged, hollow-eyed, but with sparks of something unhinged in their gaze. 
 The streets had chewed them up and spat them out, leaving nervous energy, twitching limbs, and a nervous mania for 
-anything that could bring relief — pills, powders, fumes, even the faintest whiff of a joke.
+anything that could bring relief — medications, anything they could get their hands on, even the faintest whiff of a joke.
 
 Some sought sanctuary in the asylum, drawn less by medicine than by the promise of controlled chaos. Within those peeling walls, laughter became a language of survival. It rang off the cracked tiles and rusted iron bars,
 sometimes rising spontaneously, sometimes as a symptom of a delirium induced by withdrawal.
 Night after night, the echoes of madmen’s chuckles intertwined with moans, mutterings, and the occasional scream — a grotesque symphony orchestrated by the desperate and the deranged.
 
-The joke — whatever it had been on the streets — transformed inside. It became a virus of the mind, accelerated by desperation and chemical imbalance. One man laughed at shadows, another wept at silence, and yet another performed entire pantomimes of invisible conversations. 
+The joke — whatever it had been on the streets — transformed inside. It became a virus of the mind, accelerated by desperation and chemical imbalance. One man laughed at shadows as he sees faces in the tattered walls the lady with the medication cart startles the laughing man  (he hushes maybe it was her back bent over the cart as if she was deformed in the shadows) the laugh drew suddenly silent the sound the wheels on the cart could be herd as it approached, he thinks he hears the lady with the medication cart wisper in tounges to someone sleeping as they respond the laughing man begons to laugh again another wept at silence, and yet another performed entire pantomimes of invisible conversations. 
+
 Staff whispered about micrograms, exposure, and poly-drug toxicity — but the real epidemic was human chaos, and no clipboard could measure it.
 
 Even the Doctor at the assylum the main psychoanalyst smirked and irked his will to giggle he began to convulse.
