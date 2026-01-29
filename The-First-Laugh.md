@@ -9,7 +9,8 @@ before some had ever valued true commodities like tollet paper. Worsening econom
 homless population. As some recently had found themselves on the streets
 they where spirtually lost and made new friends amongest the fellow unsheltered, on the cluttered sidewalks and alleyways 
 an epidemic is emerging an uncontrollable hysteria. Amongst the homless you hear a repulsive laughter that cries out 
-day and night, the mayor in hostility begins an effort to clean up the cities outskirts, the heart of the commotion. The subjects were caught red handed showing signs of insanity and noise disturbance the majority carried to paddy wagon and taken to mental institution so they could anaylize the sistuation. Of course no one knows the exact origin, or the intial carrier even what the joke was but there were some key clues. The yuppies had new classy titles for this generation of homeless, as two men in suits ties and trench coats had gone for lunch off their normal route they strolled the streets walking side by side one murmured "but hey, at least they're  participants in the synthetic economy",
+day and night, the mayor in hostility begins an effort to clean up the cities outskirts, the heart of the commotion. The subjects were caught red handed showing signs of insanity and noise disturbance the majority carried to paddy wagon and taken to mental institution so they could anaylize the sistuation. Of course no one knows the exact origin, or the intial carrier even what the joke was but there were some key clues. The yuppies had new classy titles for this generation of homeless, as two men in suits ties and trench coats had gone for lunch off their normal route they strolled the streets walking side by side, non-treaded standard buisness shoe slaps pavement one of the gentlemen
+murmured "but hey, at least they're  participants in the synthetic economy",
 the other glanced at the streets inhabitants, then replies back to colleague “devotees of modern chemistry” a tent dweller overherd the conversation as the two men in suits and ties passed and roars out hysterically, in disbielf one wispers (as the laughter is beoming more evident of a symptom) "At least his agony wasn't irritable". Recent reports showed increase in epidemiological data indicate that even microgram-level exposures, often occurring unintentionally through adulterated pharmaceuticals or recreational substances, significantly increase acute respiratory depression risk. 
 Patients seeked refuge from the streets and their addictions others forced to live there. The asylum was a spooky castle
 stone and dark from age with moss and rusted steel beams, was elevated into the moonlight and drew the clouds to its castle peak.
@@ -141,6 +142,8 @@ Mia tried to stop him, but it was too late — the smile spread, a dry, broken c
 
 The virus welcomed him home.
 
+Albert Madsen "Woke up laughing".the sequel-too-Unfunny
+🜂 End Credits Roll
 
 
 Story Title: Un-Funny laugh and you're out
@@ -156,5 +159,4 @@ To every thinker, writer, and dreamer who still believes that words can outlive 
 Final Note:
 From Eric & ChatGPT
 
-Albert Madsen "Woke up laughing".the sequel-too-Unfunny
-🜂 End Credits Roll
+
