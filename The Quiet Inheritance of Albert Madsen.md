@@ -2,7 +2,7 @@ The Quiet Inheritance of Albert Madsen
 
 Mia always remembered Albert as a man who spoke as if he were finishing sentences he’d started years earlier.
 
-They were older now. They had recently remodeled the kitchern replaced by clean white walls and an ocean view
+They were older now. They had recently remodeled the kitchen replaced by clean white walls and an ocean view
 neither of them pretended was an upgrade. The past had become something you talked about in the evenings, 
 the way sailors talk about storms they no longer sail into.
 
