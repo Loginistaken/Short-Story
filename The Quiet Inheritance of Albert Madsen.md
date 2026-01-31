@@ -145,4 +145,4 @@ He looked out at the ocean, amused, not bitter.
 The intelligence had already happened.
 
 And somewhere — years ago — a younger version of himself was opening a letter that didn’t know what time was, and never needed to.
-
+Writter Eric Lindau Chat GPT 5 assist 
