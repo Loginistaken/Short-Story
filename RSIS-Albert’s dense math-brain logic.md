@@ -33,9 +33,18 @@ It had softened. The imagined “wrong person” didn’t become a catastrophe. 
 RSIS wasn’t rewriting fate; it was buying time.
 
 The real danger, Albert eventually understood, wasn’t who RSIS saved. It was complacency. A system too effective could lull humans 
-into surrendering responsibility. Cities might treat it like magic instead of math. Drivers might forget they were still part of the loop. 
-That was the future Albert needed to prevent before it arrived. So he updated RSIS — not louder, not stricter, just wiser. 
-More nudges than commands. More reminders that safety was shared. More humility embedded in the code.
+into surrendering responsibility. Cities might treat it like magic instead of math. And the out come Albert decides how to upgrade non-users (those who didn't download RSIS Apps) or (drivers,pedestrians,cyclist without RSIS)  Drivers might forget and imagine everyone is a user, he made more rigid outlines for non-user accidents areas and enabled a non-user blue tooth awarness that made non-user node agreement so non-user could turn on Bluetooth Non-User Detection & Consent Flow (Platform-Safe)
+sending from user to non-user Broadcasts BLE SPB packets by non-user enabling safety alerts.That was the future Albert needed to prevent before it arrived. So he updated RSIS — not louder, not stricter, just wiser. 
+
+The upgrade, RSIS 4.1 introduces a Bluetooth Safety Presence Beacon upgrade that allows RSIS users to protect nearby non-users without collecting identity, sending messages, or assuming consent. Active RSIS devices broadcast a short-range, 
+anonymous Bluetooth signal indicating role and risk state only, functioning like a digital road-safety 
+sign rather than a communication channel. Non-user devices may passively detect this signal through 
+operating-system safety mechanisms and, only if the user voluntarily taps, enter a temporary pedestrian 
+safety mode that delivers local, Bluetooth-only risk alerts with no account, no tracking, and no data persistence. 
+Safety value is delivered before any onboarding occurs, and users are invited to install RSIS only after explicit 
+interaction and demonstrated benefit. This upgrade preserves RSIS’s privacy-first architecture, maintains full 
+compliance with platform and privacy laws, operates offline, and creates an ethical, consent-driven path from 
+non-user to participant without spam, surveillance, or coercive growth mechanics.
 
 Albert didn’t fix the universe. He just kept it from tipping. Somewhere that night, a dashboard light blinked quietly
 — no sound, no drama — and a life continued, slightly altered and slightly safer, unaware it had ever been almost a statistic. 
