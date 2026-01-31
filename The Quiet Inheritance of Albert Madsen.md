@@ -102,7 +102,7 @@ One pair for pattern recognition.
 One for spatial law.
 One — his favorite — tuned to legal logic.
 
-“I passed the bar with them,” he said quietly. “Never practiced. Never wanted to.”
+“I passed the Bar exam with them,” he said quietly. “Although never used the degree to practice. Never wanted to.”
 
 The intelligence didn’t tell him answers. It rearranged perception so the answers were inevitable.
 
