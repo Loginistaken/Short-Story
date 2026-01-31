@@ -48,7 +48,7 @@ That was the core of the theory referenced in The Coin That Came From Tomorrow a
 • Time crystals on-chip stabilized oscillation
 • Lattice-bound elements acted as both memory and clock
 • Binary logic encoded as frequency, not instruction
-• The sun’s rotation irrelevant, because coherence lived locally, not cosmically
+• The Earth's rotation around the Sun (Time in standard measurement) is irrelevant, because coherence lived locally, not cosmically
 
 The message didn’t travel back in time.
 
