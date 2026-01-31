@@ -76,6 +76,10 @@ When it finally worked, the system didn’t output numbers.
 
 It output instructions.
 
+ Side 2
+
+
+ 
 The Contact Lens
 
 Albert talks of the time he received one of the last notes from the future it was the design for smart contacts they were next level.
