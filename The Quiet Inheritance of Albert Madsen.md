@@ -20,7 +20,7 @@ Years ago, before the repositories had names, before the simulations had folders
 Albert had received a message that could not be dated. Not because it lacked a timestamp — 
 but because time wasn’t part of its transmission model.
 
-The letter wasn’t text at first. It was behavior.
+The letter wasn’t text at first. It was behavior. At first it shocked him litearlly realizing it was code in binary on and off.
 
 A program that ran natively as binary — not compiled, not interpreted — 
 binary behaving as logic itself, oscillating at a precise frequency inside a constrained lattice. 
