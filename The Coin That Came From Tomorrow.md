@@ -67,17 +67,14 @@ And the code into binary (wrapped) is beyond physics and it's too much paperwork
 
 The simulation highlighted a carrier band: 137 megahertz. Albert smiled. Old, stable, almost nostalgic. A frequency 
 that didn’t raise eyebrows or trigger audits. The kind of signal legacy systems accepted without suspicion, like a fax from the universe.
-Albert says aloud "I'll create a catchy name to attract the user to download pop-up" and 
-finished proclaiming the title "Like try Next Generation AI"
+Albert thinks maybe i'll send to my email address in highschool with the subject titeled something like "Letter from 2000" because he remebers the fam was into the 2000 glitch he would be sure to open it then he says aloud "I'll create a catchy name to attract the user to download pop-up" and finished proclaiming the title "Like try Next Generation AI"
 He gestured toward the hardware littering the room—beige towers, CRT monitors, scavenged Airport wireless cards. 
 Windows 2000. iMac G3. Machines from an era before computers had opinions.
 
 “Modern systems interrogate data,” Albert said. “Old systems just say thank you.”
 
 The idea, once formed, felt obvious in retrospect, which is how all terrible ideas feel. He wouldn’t send matter. 
-He wouldn’t send messages labeled from the future. He would send logic—compressed, boring, and plausibly accidental.
-Binary code shaped by tunneling noise, wrapped in C++, broadcast wirelessly in a way that could arrive before it was 
-sent, so long as no one asked it to explain itself.
+He never thought trigger send messages he only thought trigger code command intro for compressed (to keep the data that was entangled signal short) next level AI system and now the electron tunnel theory and supercomputer it had been labeled from the future. He would send logic—compressed, boring, and plausibly prescise. Binary code shaped by tunneling noise, wrapped in C++, broadcast wirelessly in a way that could arrive before it was sent, so long as no one asked it to explain itself.
 
 He called the program Coin Writer, mostly because the name sounded harmless and because naming things was the closest 
 Albert ever came to believing he was in control.
@@ -88,9 +85,8 @@ It never named a currency. It never predicted a market. It simply explained how 
 
 Albert ran the transmission.
 
-The machine hummed softly, embarrassed by its own ambition. The wireless card blinked. Somewhere, someone back in time— received a 
-packet he had no reason to doubt. An auto-download triggered. a file downloaded pop-up appeared.                                                A human, curious and unsuspecting, clicked the file with subject titled "Like try next level AI" and opened it.                                   He called the program Coin Writer, mostly because the name sounded innocent as an anonymous butterfly effect with only the best intent.
-The AI hummed obediently, diagrams and logic streams unfolding on the screen, obeying rules no one else understood but Albert could read like a comic strip.
+The machine hummed softly, embarrassed by its own ambition. The wireless card blinked. Somewhere, he recieved back in time—  
+the packet he had no reason to doubt. It auto-download triggered. a file downloaded pop-up appeared.                                                Maybe him maybe someone else had received the the wireless triggeer, curious and unsuspecting, clicked the file with subject titled "Like try next level AI" and opened it. He called the program Coin Writer, mostly because the name sounded innocent as an anonymous butterfly effect with only the best intent. The AI hummed obediently, diagrams and logic streams unfolding on the screen, obeying rules no one else understood but Albert could read like a comic strip.
 
 
 
