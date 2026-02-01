@@ -71,7 +71,7 @@ Albert adjusted the mic. “So,” he began, “before we get started… I shoul
 
 A pause.
 
-“I had a dream.”
+“I have been givin a dream.”
 
 The room shifted slightly. Faint, polite murmurs.
 
