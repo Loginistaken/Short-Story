@@ -2,7 +2,7 @@
 Title: “Un-Funny laugh and you're out”
 A Dystopian 
 
-Page 1 — The First Laugh, they said it started at a dark and errie insane asylum.
+Page 1 — The First Laugh, they said it all started as a chuckle in a dark and errie insane asylum.
 
 It was cusp normal somewhere round 2018, back when you still double glanced at the person in public wearing a KN95 face mask and
 before some had ever valued true commodities like tollet paper. Worsening economies in the city lead to more
