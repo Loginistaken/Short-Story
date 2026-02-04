@@ -45,20 +45,20 @@ but because his sense of humor was jaded and too keen.
 
 Page 3 — The Dying City
 
-The streets of his home city in shambles, gone silent now except for the occasional shrill cackle of a at random laugh a bum must have read the graffiti and vented aloud in disbelief something had crossed his mind, Albert woundered what on Earth the crackle could have been as response to?, Albert knew the urge to investigate things would be the end of him. In the beginning he used his intuition to converse the intial contagion at point zero, with Mia his girlfriend at the time, they had stayed away from the news long enough to see ground zero the epicenter and the broadcaster did a professonal job keeping it serious as they prounced the Doctor of the notourious instiution deceased no one thought  it was one funny by this piont, but now the virus was mutating it seemed if anyone laughed at anything they died. As a comedian Albert despised how it killed his sense of humor, the thrill that tickled him to want chime in, so he kept a straight face and did so anyway, "I hated the recording of the asylums crackles" Mia gasps her since of humor wasn't dead she could only but sympathize, thats how Albert and Mia learned of how serious this neural virus was cause so many casulities drifting from what sounded from the side walk's diection (where Albert was) to the area near an abandoned building.
+The streets of his home city in shambles, gone silent now except for the occasional shrill cackle of a at random laugh a bum must have read the graffiti and vented aloud in disbelief something had crossed his mind, Albert woundered what on Earth the crackle could have been as response to?, Albert knew the urge to investigate things would be the end of him. In the beginning he used his intuition to converse the intial contagion at point zero, with Mia his girlfriend at the time, they had stayed away from the news long enough to see ground zero the epicenter and the broadcaster did a professonal job keeping it serious as they prounced the Doctor of the notourious instiution deceased no one thought it was one funny by this piont, but now the virus was mutating it seemed if anyone laughed at anything they died. As a comedian Albert despised how it killed his sense of humor, the thrill inside that tickled him to want chime in, so he kept a straight face and did so anyway, "I hated the recording of the asylums crackles" Mia gasps her since of humor wasn't dead she could only but sympathize, thats how Albert and Mia learned of how serious this neural virus was cause so many casulities drifting from what sounded from the side walk's diection (where Albert was) to the area near an abandoned building.
 
 Graffiti read:
 "Don't Go Bananas!"
 “LAUGH OR DIE.”
 “HAPPINESS IS CONTAGIOUS.”
 
-Albert and his team — four soldiers and one data analyst named Mia — moved through the wreckage with respirators and neural filters. The devices scrambled auditory signals, preventing the virus from hijacking the brain’s humor centers. Mia kept her neural scrambler on whenever Albert was near they'd been together sense Albert's comedian days and she didn't trust him.They passed a group of bodies — mouths stretched wide, frozen in rigor-mortis laughter.Albert muttered, “Un-funny.”Mia glanced at him. “You always say that.”
+Albert and his team — of four survivors  and the data analyst named Mia, Albert's off and on girlfriend— moved through the wreckage with respirators and neural filters. The devices scrambled auditory signals, preventing the virus from hijacking the brain’s humor centers. Mia kept her neural scrambler on whenever Albert was near they'd been together sense Albert's comedian days and she didn't trust him.They passed a group of bodies — mouths stretched wide, frozen in rigor-mortis laughter.Albert muttered, “Un-funny.”Mia glanced at him. “You always say that.”
 “That’s because it always is.”
 
 Page 4 — The Comrades
 
 Mia was bright — too bright, Albert thought — still hopeful, still cracking dry jokes to survive the tension. It seemed there were only a few 
-remaining amongst a disappearing population when Albert and Mia found Bob in the ruins he didn't seem happy. They'd followed the cannon fire and angry shouting to Bob, it took a while to distinguish how many people were involved in the standoff and what was going on, after along silence they had presumed it was only Bob. He was irritable thats how he had made it this far, in survival of the fittest Bob, he probaly hadn't realized there was a virus nor had he laughed. Through and through Bob believed fear was weakness,it was hard to persuade him  laughter was death.
+remaining amongst a disappearing population when Albert and Mia found Bob in the ruins he didn't seem happy. They'd followed the cannon fire and angry shouting to Bob, it took a while to distinguish how many people were involved in the standoff and what was going on, after along silence they had presumed it was only Bob. He was irritable thats how he had made it this far, in survival of the fittest Bob, he probaly hadn't realized there was a virus nor had he laughed since the the outbreak started. Through and through Bob believed fear was weakness,it was hard to persuade him  laughter was death. Mia and Albert discussed behind Bob's back, Albert states "do you think he nuetralizes your fear of dying" Mia replies "as in he's as much of a threat as the plague?"
 Torres and Vik, the twins, once DJs, now technicians who treated silence like religion.
 And Albert, their reluctant prophet of irony, a man allergic to joy in a world where joy killed.
 They were searching for the origin post — the first file uploaded before the networks crashed. 
@@ -70,15 +70,14 @@ By the time they found the signal source — an old broadcast hub — the virus 
 No longer just sound.
 Now it spread through irony, sarcasm, and intent.
 Someone said something funny — even accidentally — and the virus triggered. It detected comedic structure, rhythm, or timing, then unleashed neural overload.That night, around the campfire, Torres tried to lighten the mood. “Guess this means open-mic night’s canceled forever.”
-Vik snorted — a single laugh. Then he froze. His eyes rolled back. His jaw locked, and he fell twitching into the firelight.
-Albert declares "He thought and he thought wrong, wrong answer." Everyone stared.Albert whispered, “Told you. Un-funny.”
+Vik smiled then came involuntarily — a single laugh. Then he froze. His eyes rolled back. His jaw locked, and he fell twitching into the firelight. Albert declares "He thought and he thought wrong, wrong answer." Everyone stared. Albert whispered, “Told you. Un-funny.”
 
 Page 6 — “They Laugh, They Die”
 
 By dawn, the survivors were three.
 Torres was hysterical, half-crazed from watching his brother die mid-chuckle.
 Mia wouldn’t speak.
-Bob kept repeating, “It’s in the air. It’s in the air.”Albert knew better. It wasn’t airborne — it was in them.
+Bob kept repeating, “It’s in the air. It’s in the air.”Albert knew better. It wasn’t airborne — anyone who knew the consequence of humor by now would have to be a moron.
 The virus had evolved to detect laughter before it even surfaced — the micro-muscle flicker, the subconscious amusement before the sound escaped. Humor had become a death sentence.He stood before the others and shouted, “Look around you! These dumb f%$!! laugh, they die! You see it now?”Mia looked up, her face pale.
 “They’re not laughing at anything anymore,” she whispered. “They’re laughing because something inside them wants to.”
 Albert’s jaw tightened. “Then maybe humanity’s punchline finally came due.”
@@ -97,13 +96,13 @@ Albert crushed the device under his boot.
 
 Page 8 — The Realization
 
-Only Albert and Mia survived long enough to reach the neural archives beneath the Pentagon ruins.
+Only Albert and Mia survived long enough to reach the neural network beneath the Archive buildings.
 Inside, they discovered the truth: the Joke wasn’t man-made. It was evolutionary.
 Humanity had encoded humor as a coping mechanism — a pressure valve for pain. 
 But the virus hijacked that mechanism, turning laughter against itself.Albert stood before the flickering servers, realization dawning.
-“Mia,” he said quietly, “you know what’s funny?”She looked up, terrified. “Don’t—”He smiled for the first time in years.
-“That this is how it ends. A species that joked itself to death.”Mia tried to stop him, but it was too late — 
-the smile spread, a dry, broken chuckle escaping from his throat.
+“Mia,” he said quietly, “you know what’s funny?”She looked up, terrified and cries “Don’t!” It was too late Albert smiled for the first time in years, the smile spread, a dry, broken chuckle escaping from his throat.
+
+“That this is how it ends. A species that joked itself to death. — 
 
 The virus welcomed him home.
 Albert Madsen "Woke up laughing".the sequel-too-Unfunny
