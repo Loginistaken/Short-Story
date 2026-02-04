@@ -1,5 +1,6 @@
 # Short-Story
-Title: “Un-Funny laugh and you're out”
+
+Title: “If you can read this without laughing you win, Un-funny”
 A Dystopian 
 
 Page 1 — The First Laugh, they say it all started as a chuckle in a dark and errie insane asylum.
@@ -8,12 +9,13 @@ It was cusp normal somewhere round 2018, back when you still double glanced at t
 before some had ever valued true commodities like tollet paper. Worsening economies in the city lead to more
 homless population. As some recently had found themselves on the streets
 they where spirtually lost and made new friends amongest the fellow unsheltered, on the cluttered sidewalks and alleyways 
-an epidemic is emerging an uncontrollable hysteria. Amongst the homless you hear a repulsive laughter that cries out day and night,
-"Resembles the whale of multiple chimpanzees pant-hoot" the Mayor proclaims in hostility,as he begins an effort to clean up the cities outskirts, the heart of the commotion. The subjects were caught red handed showing signs of insanity and noise disturbance then carried to paddy wagons and taken to the mental institution so they could anaylize the sistuation. Of course no one knows the exact origin, or the intial carrier even what the joke was but there were some key clues. 
+an epidemic is emerging an uncontrollable hysteria. Amongst the homless you hear a repulsive laughter day and night,
+"Resembles the whale of multiple chimpanzees pant-hoot" the Mayor proclaims in hostility. The Mayor looked and spoke like Leslie Nielsen  
+and begins an effort to clean up the cities outskirts, the heart of the commotion. Subjects were reprimanded caught red handed showing signs of insanity and noise disturbance, carried to paddy wagons and taken to the mental institution so they could anaylize the sistuation. Of course no one knows the exact origin, or the intial carrier even what the joke was but there were some key clues. 
 
  The yuppies had new classy titles for this generation of homeless, as two men in suits ties and trench coats had gone for lunch off their normal route they strolled the streets walking side by side, non-treaded standard buisness shoes slaps pavement one of the gentlemen
-murmured "but hey, at least they're  participants in the synthetic economy",
-the other glanced at the streets inhabitants, then replies back to colleague “devotees of modern chemistry” a tent dweller overherd the conversation as the two men in suits and ties passed and roars out hysterically, in disbielf one wispers (as the laughter is beoming more evident of a symptom) "Lucky for us his agony wasn't irritable". Recent reports showed increase in epidemiological data indicate that even microgram-level exposures, often occurring unintentionally through adulterated pharmaceuticals or recreational substances, significantly increase acute respiratory depression risk, a Docotor inside insitution taunts a grinning patient whom repeadily back talked the Doctor, "Let's sober up" the newbie smiles harder unwillingly the Doc adds "no more medications for you as he straps the patient into a padded timeout vest calling take him away, no more sudden out burts!" as the large male nurse carries him away the deranged subject whales out a crying helpless laughter as he tries to break free of being detained. Although there were other patients amognst the
+murmured "but hey, at least they're  participants in the medical industry",
+the other glanced at the streets inhabitants, then replies back to colleague “devoted” a tent dweller overherd the conversation as the two men in suits and ties passed and roars out hysterically, in disbielf one wispers (as the laughter is beoming more evident of a symptom) "Make a run for it!". Recent reports showed increase in data indicate that exposures between two subjects can ignite an interaction often occurring unintentionally through in room contact, a Docotor inside insitution taunts a grinning patient whom repeadily back talked the Doctor, "Let's sober up" the newbie smiles harder unwillingly the Doc adds "no more medications for you as he straps the patient into a padded timeout vest calling take him away, no more sudden out burts!" as the large male nurse carries him away the deranged subject whales out a crying helpless laughter as he tries to break free of being detained. Although there were other patients amognst the
 voices that cried out on the street at night other patients seeked refuge from the streets and cold 
 others forced to live there. The asylum was a spooky castle
 stone and dark from age with moss and rusted steel beams, was elevated into the moonlight and drew the clouds to its castle peak.
