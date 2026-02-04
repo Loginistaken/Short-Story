@@ -43,8 +43,9 @@ Centered the theory around electron tunnel where frequencies encounter time crys
 the electron the suns rotation dosent remain a coherent measuremnt as time becomes obcsure the message is inherited to older computer back in time as the coin writer guide (a crypto writer guide) is received user receives interactive coin guide, the system starts with around 8oo interacative answers to user questions, all coin releated only, as the user interacts there are more interactive questions as the systems analyzes user interaction to expand.
 
 “Macroscopic quantum tunneling,” he muttered, scrolling through articles on his screen. “Electrons jumping barriers 
-like bad punchlines skipping the setup. Clarke. Devoret. Martinis. They didn’t just watch particles tunnel—they made 
-whole circuits do it. Large-scale systems behaving like probability had a sense of humor.”
+like bad punchlines skipping the setup. Renowned scientist modernized the phiolophsy in the physics department.
+They didn’t just watch particles tunnel—they made whole circuits do it. 
+Large-scale systems behaving like probability had a sense of humor.”
 
 He leaned back, hands folded behind his head, staring at the ceiling as if physics might reveal itself there instead.
 If electrons could ignore barriers of energy, he reasoned, then time—so smug in its forward motion—might simply be 
