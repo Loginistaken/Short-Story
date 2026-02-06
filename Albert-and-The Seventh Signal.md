@@ -66,8 +66,7 @@ Conventions hardened. Decisions were made once and never apologized for again.
 Albert didn’t “invent” anything. That’s not how it felt.
 
 He recognized things.
-By July, Rails was out in the open. By December 2005, people were arguing about it on the internet, 
-which is how you know something has survived.
+By July, Rails was out in the open, people were indulging their public interests on the internet, 
 Albert went back to his real job.
 Which, at the time, was a restaurant.
 That’s where Matt Brain Jacked came in.
