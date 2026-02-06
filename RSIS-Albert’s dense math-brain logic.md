@@ -9,7 +9,7 @@ of a vechile approaching from around 300 feet away, this system used a node agre
 
 One year in, the data arrived — and it was undeniable. Roadway fatalities were down. Not slightly. Drastically. 
 Insurance companies were baffled. Statisticians rechecked their spreadsheets in disbelief. Cities began quietly adjusting
-infrastructure based on RSIS feedback. Albert, meanwhile, sat alone in his kitchen at 3:14 a.m., staring at a piece of bunt toast,
+infrastructure based on RSIS feedback. Albert, meanwhile, sat alone in his kitchen at 3:14 a.m., staring at a piece of burnt toast,
 thinking the same impossible thought over and over: he must have saved someone who was supposed to die.
 
 Albert didn’t believe in fate. He believed in probability curves, feedback loops, and coffee strong enough to bend time. 
