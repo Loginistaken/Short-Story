@@ -39,9 +39,10 @@ he noticed the interactive was always online, then finally the system would blog
 he tried to figure Harry out in a sensitive manner (Harry the AI click emblem user
 interactive he nick-named in a reference from the computer character in the  book by
 Micheal Crichton, The Sphere) the off topic question froze the user interactive and 
-there it was proof that it was a system that would blog if asked off topic subject 
+there it was proof that it was a system that would blog if asked off topic questions, it was
 proof that it wasn't just another service technician on the other side of a chat-box 
-but actual computer interacting with Albert. It was 2003 then Albert was so content 
+but an actual computer interacting with Albert. He remembers little silly details from way back then
+command for save command project was control+X. It was 2003 then Albert was so content 
 with the software he took it for granted didn't even look up a release date for the 
 program imagined if he was using it then of course it would be out for the general 
 public although no the program hadn't been released.  No one else remembered it, and then it was realsed nearly 20 years later.
