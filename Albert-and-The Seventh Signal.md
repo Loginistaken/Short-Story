@@ -1,5 +1,5 @@
 The Seventh Signal — 
-Albert Madsen was in his early forties now, old enough to remember when “online” before the age of wireless networks
+Albert Madsen was in his early forties now, old enough to remember “online” before the age of wireless networks
 now it's something that joined you to the bathroom.
 He remembered code language release dates the way other people remembered smells.
  Ruby in highschool computer class was still new in America. 2002–2003… 
