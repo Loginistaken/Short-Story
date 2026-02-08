@@ -47,7 +47,7 @@ with the software he took it for granted didn't even look up a release date for 
 program imagined if he was using it then of course it would be out for the general 
 public although no the program hadn't been released.  No one else remembered it, and then it was realsed nearly 20 years later.
 Naturally, Albert did what any reasonable person would do.
-He emailed 37signals.
+He emailed signals.
 Not a pitch. Not a manifesto. Just a zip file, a long readme, and a subject line that said:
 “This might help you explain what you’re already building.”
 No reply.
@@ -72,7 +72,7 @@ Albert went back to his real job.
 Which, at the time, was a restaurant.
 That’s where Matt Brain Jacked came in.
 Matt was older by just enough to be a mentor. An IT student at the local college. 
-The kind of guy who played Daft Punk "one more time" when Albert happened to imagine, Albert liked him immediately they shared tastes.
+He was a psyhic Dj, shared interest in simular music as Albert at work they were friends .
 
 One night after a shift, Albert handed Matt a phone.
 “No app store,” Albert said.
@@ -83,15 +83,15 @@ that’s all phones would tolerate. It ran on a backend that assumed a structure
 Matt frowned. Then smiled. Then frowned again.
 “This shouldn’t work,” he said.
 “It doesn’t,” Albert said. “Not yet.”
-It wasn’t Twitter. Not really. Just a version zero, built to puzzle a mentor and 
+It wasn’t the first SMS messenger. Not really. Just a version zero, built to puzzle a mentor and 
 impress him at the same time. Rails hadn’t been released. The system was pretending the future had already happened.
-Years later, when Twitter had names and lawsuits and a character limit everyone argued about, 
+Years later, when SMS version 1 type messenger software had names and lawsuits and a character limit everyone argued about, 
 Albert would remember that night in the restaurant like a perfectly cached response.
 No delusions. No prophecies.
 Just a man who clicked the wrong icon once, remembered it clearly, and had the bad habit of
 mailing things to people who were already halfway to inventing them.
 And somewhere in his memory—between Basecamp, Rails, SMS, and a phone slid across a sticky 
-table—there were still 37 signals, all doing exactly what they were supposed to do:
+table—there were still signals, all doing exactly what they were supposed to do:
 Warning you
 before the curve.
 Albert never told anyone about the nights that followed, the ones where he would sit at his
