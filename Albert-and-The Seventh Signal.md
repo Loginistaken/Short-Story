@@ -58,8 +58,7 @@ supposed to stare too long or you’ll convince yourself it’s personal. The st
 familiar. The language. The calm. The refusal to explain itself.
 Two weeks later, a reply came. Short. Polite. Real.
 “This is interesting. Some of it overlaps with work we’re already doing.
-— David”
-They didn’t call it Rails yet.
+— They didn’t call it Rails yet.
 From February to July 2004, time compressed. Basecamp wasn’t renamed. It was distilled. 
 Controllers peeled away from application logic like labels coming off bottles. 
 Conventions hardened. Decisions were made once and never apologized for again.
@@ -74,16 +73,16 @@ That’s where Matt Brain Jacked came in.
 Matt was older by just enough to be a mentor. An IT student at the local college. 
 He was a psyhic Dj, shared interest in simular music as Albert at work they were friends .
 
-One night after a shift, Albert handed Matt a phone.
+One a shift, Albert handed Matt a phone.
 “No app store,” Albert said.
-“No framework,” Matt said.
-“No framework yet,” Albert said.
+“framework?,” Matt asked.
+“scales SMS,” Albert replies.
 It was a crude thing. SMS-based. Status updates that fit inside a text message because 
 that’s all phones would tolerate. It ran on a backend that assumed a structure that didn’t technically exist yet.
 Matt frowned. Then smiled. Then frowned again.
 “This shouldn’t work,” he said.
-“It doesn’t,” Albert said. “Not yet.”
-It wasn’t the first SMS messenger. Not really. Just a version zero, built to puzzle a mentor and 
+“It but it does,” Albert replies.
+It wasn’t the first SMS messenger. Not really maybe its originality surely authentic. Just a version zero, built to puzzle a mentor and 
 impress him at the same time. Rails hadn’t been released. The system was pretending the future had already happened.
 Years later, when SMS version 1 type messenger software had names and lawsuits and a character limit everyone argued about, 
 Albert would remember that night in the restaurant like a perfectly cached response.
