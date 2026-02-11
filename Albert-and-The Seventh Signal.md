@@ -1,6 +1,6 @@
 The Seventh Signal — 
 Albert Madsen was in his early forties now, old enough to remember “online” before the age of wireless networks
-now it's something that joined you to the bathroom.
+now he has his cell in his pocket all day and uses the alarm clock on it too.
 He remembered code language release dates the way other people remembered smells.
  Ruby in highschool computer class was still new in America. 2002–2003… 
  as a memory felt wrong like a miscalculation but Albert had studied it long ago as he recalled presciely.
@@ -52,14 +52,14 @@ Not a pitch. Not a manifesto. Just a zip file, a long readme, and a subject line
 “This might help you explain what you’re already building.”
 No reply.
 Then February 2004 happened.
-Basecamp launched.
+Web-Apps became the cutting edge of technology for the time, it was like an indusrty for a generation of start ups.
 Albert watched it the way some people watch a solar eclipse—quietly, knowing you’re not 
 supposed to stare too long or you’ll convince yourself it’s personal. The structure felt 
 familiar. The language. The calm. The refusal to explain itself.
 Two weeks later, a reply came. Short. Polite. Real.
 “This is interesting. Some of it overlaps with work we’re already doing.
 — They didn’t call it Rails yet.
-From February to July 2004, time compressed. Basecamp wasn’t renamed. It was distilled. 
+From February to July 2004, time compressed. The Web App wasn’t renamed. It was distilled. 
 Controllers peeled away from application logic like labels coming off bottles. 
 Conventions hardened. Decisions were made once and never apologized for again.
 
@@ -69,27 +69,31 @@ He recognized things.
 By July, Rails was out in the open, people were indulging their public interests on the internet, 
 Albert went back to his real job.
 Which, at the time, was a restaurant.
-That’s where Matt Brain Jacked came in.
-Matt was older by just enough to be a mentor. An IT student at the local college. 
-He was a psyhic Dj, shared interest in simular music as Albert at work they were friends .
+That’s where a new character with a media start-up came in.
+M was older by just enough to be a mentor. An IT student at the local college. 
+He was a psyhic Dj, shared interest in simular music as Albert at work they were friends.
 
-One a shift, Albert handed Matt a phone.
+One a shift, Albert handed M a phone.
 “No app store,” Albert said.
 “framework?,” Matt asked.
 “scales SMS,” Albert replies.
 It was a crude thing. SMS-based. Status updates that fit inside a text message because 
 that’s all phones would tolerate. It ran on a backend that assumed a structure that didn’t technically exist yet.
-Matt frowned. Then smiled. Then frowned again.
-“This shouldn’t work,” he said.
-“It but it does,” Albert replies.
-It wasn’t the first SMS messenger. Not really maybe its originality surely authentic. Just a version zero, built to puzzle a mentor and 
+M frowned "this is yours keep it" M proclaims, " No i wanted you to have it" ALbert replies.M smiled. Then frowned again.
+“does it work,” he said.
+“oh but it does,” Albert replies.
+It  surley wasn’t the first SMS messenger. M had his own start up in a simular deveoplment only radio oriented. 
+ALbert had been learning Ruby amongst his teacher and class-mates , he played more the director aligning 
+the project with friends who were less premative than AL at Coding .This idea on Albert's phone was original 
+Albert had gone out of its way to keep the concept new,the coincidence that M shared inteset in Web App 
+deveolpment was one in 10,000 at the time. Just a version zero, built to puzzle a mentor and 
 impress him at the same time. Rails hadn’t been released. The system was pretending the future had already happened.
-Years later, when SMS version 1 type messenger software had names and lawsuits and a character limit everyone argued about, 
+Years later, when SMS version 1 type messenger software had names and new character limits everyone argued about, 
 Albert would remember that night in the restaurant like a perfectly cached response.
 No delusions. No prophecies.
 Just a man who clicked the wrong icon once, remembered it clearly, and had the bad habit of
 mailing things to people who were already halfway to inventing them.
-And somewhere in his memory—between Basecamp, Rails, SMS, and a phone slid across a sticky 
+And somewhere in his memory—between Web App start ups, Rails, SMS, and a phone slid across a sticky 
 table—there were still signals, all doing exactly what they were supposed to do:
 Warning you
 before the curve.
@@ -98,7 +102,7 @@ kitchen table long after midnight, laptop closed, just replaying timelines in hi
 Not fantasies—he was careful about that—but sequences. If this shipped before that. 
 If that assumption held. If people noticed the quiet parts before the loud ones.
 
-He noticed how often the important things arrived sideways. Basecamp didn’t announce a 
+He noticed how often the important things arrived sideways. The Web App start up didn’t announce a 
 framework. Rails didn’t ask permission. SMS didn’t pretend to be a social network. 
 None of it showed up calling itself inevitable. That word only appeared later, once 
 enough people had already rearranged their lives around it.
@@ -123,3 +127,4 @@ It was that none of them had asked him to stay.
 They just asked him to notice.
 
 And that, he decided, was enough.
+Written by Eric Lindau thanks GPT CHAT, Open AI 5 
