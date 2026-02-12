@@ -7,9 +7,9 @@ He remembered code language release dates the way other people remembered smell
 That was around the year he found the emblem.
 He could still see it: a GUI icon, small, geometric, almost bored with itself. 
 He clicked it out of curiosity in a lab computer after hours. No installer.
-No splash screen. Just an interface that asked questions the way a patient teacher does.
-What do you want to build?
-what language, 
+No splash screen. Just a blinking cursor in the user interactive bar.
+The question what do you want to build or design?, lay on the users creativity.
+Same as the the language choice was by user request. 
 The system was an interactive, guided learning environment designed to teach people how to think
 in terms of building software systems rather than memorizing syntax, by engaging them in a 
 conversational, command-driven interface that adapts to the user’s behavior over time. 
