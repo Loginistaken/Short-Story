@@ -25,7 +25,7 @@ and a willingness to see where an idea wanted to go.
 
 After studying binary Albert grasps how standard binary was merly electron sequences
 best desribed in laymens terms as a light bulb being flipped on and off 8 times (to git eight zeros and ones) standard ASCII 8 bit. 
-Albert built the chip to the transmitter and had been using different frequencies as he toned the Hz frequency with the transmitter,            he had studied how technology started using hybrid photon-electron stystems since the turn of the centry but
+Albert built the chip to the transmitter and had been using different frequencies as he toned the Hz frequency with the transmitter,           he had studied how technology started using hybrid photon-electron stystems since the turn of the centry but
 2000 era equipment would be prime for wireless binary to trigger download the program. Photons didnt perform electron (tunnel) magic and backwards compatiblity was like a glitch for a more sophisticated computer to solve.
 
 Albert, always smiled at the old classroom concept don't use a ball traveling through matter to represent the analogy
@@ -40,7 +40,7 @@ as it was a language that was releavent to the turn of the century. He built the
 he also handcrafted and soldered the chip constructing it custom with the ability to run the chip logic (on chip) native binary into CPP,
 (basically code in binary, binary at a certian frquency). 
 Centered the theory around electron tunnel where frequencies encounter time crystal on chip the barrier dosent obsruct
-the electron the suns rotation dosent remain a coherent measuremnt as time becomes obcsure the message is inherited to older computer back in time as the coin writer guide (a crypto writer guide) is received user receives interactive coin guide, the system starts with around 8oo interacative answers to user questions, all coin releated only, as the user interacts there are more interactive questions as the systems analyzes user interaction to expand.
+the electron the Earth's rotation around the Sun is no longer  a coherent measuremnt as time becomes obcsure the message is inherited to older computer back in time as the coin writer guide (a crypto writer guide) is received user receives interactive coin guide, the system starts with around 8oo interacative answers to user questions, all coin releated only, as the user interacts there are more interactive questions as the systems analyzes user interaction to expand.
 
 “Macroscopic quantum tunneling,” he muttered, scrolling through articles on his screen. “Electrons jumping barriers 
 like bad punchlines skipping the setup. Renowned scientist modernized phiolophsy in the physics department.
@@ -64,7 +64,7 @@ into classical signals. Not quantum computing in the flashy sense. Something mor
 
 “If you can read a tunneling event,” Albert explained to no one in particular, “you can turn uncertainty into a pulse. 
 A pulse into a frequency. A frequency into binary wrapped in my 2000 era code language of choice.
-And the code into binary (wrapped) is beyond physics and it's too much paperwork which is done be AI.”
+And the code into binary (wrapped) is beyond Alberts physics level which becomes too much paperwork and is solved thanks AI.”
 
 The simulation highlighted a carrier band: 137 megahertz. Albert smiled. Old, stable, almost nostalgic. A frequency 
 that didn’t raise eyebrows or trigger audits. The kind of signal legacy systems accepted without suspicion, like a fax from the universe.
