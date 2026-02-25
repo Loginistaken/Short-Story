@@ -85,7 +85,7 @@ that’s all phones would tolerate. It ran on a backend that assumed a structure
 M frowned "this is yours keep it" M proclaims, " No i wanted you to have it" ALbert replies.M smiled. Then frowned again.
 M then says “ Ruby?,” 
 “On Rails,” Albert replies.As if not to comlicate the fact the language isnt out  yet.
-It  surley wasn’t the first SMS messenger, Albert Pondered. M had his own start up in a simular deveoplment only radio oriented. 
+It  surley wasn’t the first SMS messenger, Albert Pondered. M had his own start up in a simular deveoplment only music, podcasts, artist oriented. 
 ALbert had been learning Ruby amongst his teacher and class-mates in computer class, he played more the director aligning 
 the project with friends who were less premative than AL at Coding. The idea they converted onto Albert's phone was original. 
 Albert had gone out of its way to keep the concept new, 
