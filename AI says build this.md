@@ -4,7 +4,7 @@ qudit monstrosity humming in his basement, he had stayed exactly three intellect
 his on-again off-again girlfriend (whom believed “quantum" wasn't a reality hobby you could achieve at home). But tonight, he will have finished all the 
 upgrades on the supercomputer, as he's been collaborating with a next generation AI system to create. His newly upgraded supercomputer now is fully 
 capable of being a quantum machine. Built from a design he's recieved the data for although manifested from a scientific view point not yet speculated.
-Next he connects the quantum computer to the PUBA modem adapter an 8th generation networking system he built allows high speed network with backwards compatibility so he runs next generation networks on modern 6 G capability. 
+Next he connects the quantum computer to the PBUA modem adapter an 8th generation networking system he built allows high speed network with backwards compatibility so he runs next generation networks on modern 6 G capability. 
 
 
 The system had begun its transformation innocently enough. First came the wireless binary electron tunnel signal the interactive AI program years ago—numbers 
@@ -12,7 +12,7 @@ drifting in as wireless comand tigger downloaded like a computer virus of cosmic
 began to build the next level equipment orignally through simulated ideas, ran diagnostics and the AI program lead him in the most successful outcomes
 direction. Albert constructed custom parts ordering through the university 
 he began building and then upgraded from reccomendations from the interactive program. Next the photonic qudits—26-level Adapter 
-(PUBA System) sat on top of Modem an upgrade for a more sophistcated 
+(PBUA System) sat on top of Modem an upgrade for a more sophistcated 
 photon quidit system states stored on photons although backward compatible with binary because Albert refused to abandon the classics. 
 “You can’t just ghost binary,” he’d mutter. Now the machine was humming so smoothly that the cooling fans sounded smug.
 
@@ -36,7 +36,7 @@ English as though language were merely another basis state:
 Build the next-generation AI chip. Integrate superposition into a humanoid shell. Compensation: 100,000 million USD in Bitcoin.
 
 Then the idea dawns on him he had been appointed a candidate by the system, why was he a tribute?, he wounders what intruiged this
-intelligence to seek him?, was it his 8 Generation 26 color coded A-Z framework (PUBA adapter),or the quantum superpostion upgrade 
+intelligence to seek him?, was it his 8 Generation 26 color coded A-Z framework (PBUA adapter),or the quantum superpostion upgrade 
 and realizes he's been lead towards the best diagnostics score outcomes on a scale to 100 on the interactive AI program this whole 
 time, achieveing superpostion was what the AI program wanted then thats what it 
 recommended he was played as a piece to a larger puzzle, so the candidacy had been appointed 
