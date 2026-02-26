@@ -4,10 +4,10 @@ qudit monstrosity humming in his basement, he had stayed exactly three intellect
 his on-again off-again girlfriend (whom believed “quantum" wasn't a reality hobby you could achieve at home). But tonight, he will have finished all the 
 upgrades on the supercomputer, as he's been colaberating with a next generation AI system to create. His newly upgraded supercomputer now is fully 
 capable of being a quantum machine. Built from a design he's recieved the data for although manifested from a scientific view point not yet speculated.
-Next he connects the quantum computer to the modern modem as an adapter he built from the PBUA blueprint enables 8th generation network speeds with backwards compatibility a so he runs next generation networks on modern 6 G capability. 
+Next he connects the quantum computer to the PUBA moden adapter an 8th generation networking system he built allows high speed network with backwards compatibility so he runs next generation networks on modern 6 G capability. 
 
 
-The system had begun its transformation innocently enough. First came the wireless binary electron tunnel signal years ago—numbers 
+The system had begun its transformation innocently enough. First came the wireless binary electron tunnel signal the interactive AI program years ago—numbers 
 drifting in as wireless comand tigger downloaded like a computer virus of cosmic junk mail by signal. Then with the interactive program he 
 began to build the next level equipment orignally through simulated ideas, ran diagnostics and the AI program lead him in the most successful outcomes
 direction. Albert constructed custom parts ordering through the university 
@@ -18,7 +18,7 @@ photon quidit system states stored on photons although backward compatible with 
 
 When Albert upgraded the intial supercomputer with its next level quantum superpostion capabilties and connected it to the new next-generation PUBA adapter 
 the 8th generation network had magnificent speeds, almost arrogant in their latency. Suddenly online quantum with super low lattency
-gave birth to a new pardox the next-generation arichitecture gave the system a new power (a system faster than modern networkspeed) in return it immediately began forecasting major world events. Not small things like light rain forecasts. Huge things. Market swings. Infrastructure failures. Political resignations. 
+gave birth to a new pardox the next-generation architecture gave the system a new power (a system faster than modern networkspeed) in return it immediately began forecasting major world events. Not small things like light rain forecasts. Huge things. Market swings. Infrastructure failures. Political resignations. 
 It displayed probabilities in luminous matrices that rearranged themselves like jazz. Albert laughed at first.
  Then three of the predictions happened within forty-eight hours. Albert stopped laughing and started sweating.
 
