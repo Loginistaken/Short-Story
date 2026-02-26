@@ -35,7 +35,7 @@ English as though language were merely another basis state:
 
 Build the next-generation AI chip. Integrate superposition into a humanoid shell. Compensation: 5,000 Bitcoin. Five-hundred million USD at the time.
 
-Then the idea dawns on him he had been appointed a candidate by the system, why was he a tribute?, he wounders what intruiged this
+Then the idea dawns on him he had been appointed a candidate by the system, why was he a tribute?, he wouders what intrigued this
 intelligence to seek him?, was it his 8 Generation 26 color coded A-Z framework (PBUA adapter),or the quantum superpostion upgrade 
 and realizes he's been lead towards the best diagnostics score outcomes on a scale to 100 on the interactive AI program this whole 
 time, achieveing superpostion was what the AI program wanted then thats what it 
