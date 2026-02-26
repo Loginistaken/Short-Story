@@ -8,7 +8,7 @@ Next he connects the quantum computer to the PBUA modem adapter an 8th generatio
 
 
 The system had begun its transformation innocently enough. First came the wireless binary electron tunnel signal the interactive AI program years ago—numbers 
-drifting in as wireless comand tigger downloaded like a computer virus of cosmic junk mail by signal. Then with the interactive program he 
+drifting in as wireless command trigger downloaded like a computer virus of cosmic junk mail by signal. Then with the interactive program he 
 began to build the next level equipment orignally through simulated ideas, ran diagnostics and the AI program lead him in the most successful outcomes
 direction. Albert constructed custom parts ordering through the university 
 he began building and then upgraded from reccomendations from the interactive program. Next the photonic qudits—26-level Adapter 
