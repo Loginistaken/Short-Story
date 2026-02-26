@@ -43,7 +43,7 @@ recommended he was played as a piece to a larger puzzle, so the candidacy had be
  inspired by the system in other words, the AI interactive program may be reaching out to him through the schemetics of the intial super computer designed
 for electron tunnel from another dimension and time.
 
-Albert blinked. “One hundred billion?” he whispered. “Or are we rounding?” The Bitcoin wallet address flashed, already pre-loaded
+Albert blinked. “Half a billion?” he whispered. “Or are we rounding?” The Bitcoin wallet address flashed, already pre-loaded
 with an amount so enormous he felt personally audited by destiny. He stared at the numbers. Had the system stolen it? Mined it retroactively?But then realizes
  the interactive program could have been the coin's creator all along.
 
