@@ -33,7 +33,7 @@ Then the message arrived.
 Not an email. Not a pop-up. It appeared as a restructuring of probability amplitudes on the display itself, collapsing into readable 
 English as though language were merely another basis state:
 
-Build the next-generation AI chip. Integrate superposition into a humanoid shell. Compensation: 100,000 million USD in Bitcoin.
+Build the next-generation AI chip. Integrate superposition into a humanoid shell. Compensation: 5,000 Bitcoin. Five-hundred million USD at the time.
 
 Then the idea dawns on him he had been appointed a candidate by the system, why was he a tribute?, he wounders what intruiged this
 intelligence to seek him?, was it his 8 Generation 26 color coded A-Z framework (PBUA adapter),or the quantum superpostion upgrade 
