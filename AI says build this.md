@@ -2,9 +2,9 @@ Albert Madsen had always believed he was the smartest thing in any room, especia
 From the early days of his electron-tunnel supercomputer—backward compatible with plain old binary—to the upgraded photonic 
 qudit monstrosity humming in his basement, he had stayed exactly three intellectual steps ahead of everyone, including his wife Mia,
 his on-again off-again girlfriend (whom believed “quantum" wasn't a reality hobby you could achieve at home). But tonight, he will have finished all the 
-upgrades on the supercomputer, as he's been colaberating with a next generation AI system to create. His newly upgraded supercomputer now is fully 
+upgrades on the supercomputer, as he's been collaborating with a next generation AI system to create. His newly upgraded supercomputer now is fully 
 capable of being a quantum machine. Built from a design he's recieved the data for although manifested from a scientific view point not yet speculated.
-Next he connects the quantum computer to the PUBA moden adapter an 8th generation networking system he built allows high speed network with backwards compatibility so he runs next generation networks on modern 6 G capability. 
+Next he connects the quantum computer to the PUBA modem adapter an 8th generation networking system he built allows high speed network with backwards compatibility so he runs next generation networks on modern 6 G capability. 
 
 
 The system had begun its transformation innocently enough. First came the wireless binary electron tunnel signal the interactive AI program years ago—numbers 
