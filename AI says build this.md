@@ -3,7 +3,7 @@ From the early days of his electron-tunnel supercomputer—backward compatible w
 qudit monstrosity humming in his basement, he had stayed exactly three intellectual steps ahead of everyone, including his wife Mia,
 his on-again off-again girlfriend (whom believed “quantum" wasn't a reality hobby you could achieve at home). But tonight, he will have finished all the 
 upgrades on the supercomputer, as he's been colaberating with a next generation AI system to create. His newly upgraded supercomputer now is fully 
-capable of being a quantum machine a design he's recieved the idea for alough from a scientific view point not yet speculated.
+capable of being a quantum machine. Built from a design he's recieved the data for although manifested from a scientific view point not yet speculated.
 Next he connects the quantum computer to the modern modem as an adapter he built from the PBUA blueprint. 
 
 
