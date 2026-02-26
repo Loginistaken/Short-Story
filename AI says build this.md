@@ -75,7 +75,7 @@ The screen flickered again. More blueprint fragments unfolded. Servo architectur
 The machine was not just suggesting—it was co-authoring.
 
 Albert went on formulating a new idea prentending not to notice the illusion that had been recently presented its self, guessing like the flip of a coin 
-each previous conversation was forgotten by the time the new one was presented, as if on this new quantum computer there was a flaw within a flaw that he discovered as he envisage a theoretical out come merly pondering he acknolowdges a false claim he knows isn't true, suggesting to know he had already presented a fact in a prior conversation but it seems he can't miss guess as the program knows future events it also seemed to maniefest reality when he tricked it and lied.
+each previous conversation was forgotten by the time the new one was presented, as if on this new quantum computer there was a flaw within a flaw that he discovered as he envisage a theoretical out come merly pondering he acknowledges a false claim he knows isn't true, suggesting to know he had already presented a fact in a prior conversation but it seems he can't miss guess as the program knows future events it also seemed to maniefest reality when he tricked it and lied.
 
 
 
