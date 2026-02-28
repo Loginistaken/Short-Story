@@ -75,9 +75,7 @@ Page 6 — “They Laugh, They Die”
 By dawn, the survivors were three.
 Torres was hysterical, half-crazed from watching his brother die mid-chuckle.
 Mia wouldn’t speak.
-Bob kept repeating, “It’s in the air. It’s in the air.”Albert knew better. It wasn’t airborne — anyone who knew the consequence of humor by now would have to be a moron.
-The virus had evolved to detect laughter before it even surfaced — the micro-muscle flicker, the subconscious amusement before the sound escaped. Humor had become a death sentence.He stood before the others and shouted, “Look around you! These dumb f%$!! laugh, they die! You see it now?”Mia looked up, her face pale.
-“They’re not laughing at anything anymore,” she whispered. “They’re laughing because something inside them wants to.”
+Bob kept repeating, “It’s in the air. It’s in the air.”Albert knew better, it wasn’t airborne — anyone who knew the consequence of humor by now would have to be a moron.The virus had evolved to detect laughter before it even surfaced — the micro-muscle flicker, the subconscious amusement before the sound escaped. Humor had become a death sentence.Albert stood before the others and shouted, “Look around you! These dumb f%$!! laugh, they die! You see it now?”Mia looked up, her face pale.“They’re not laughing at anything anymore,” she whispered. “They’re laughing because something inside them wants to.”
 Albert’s jaw tightened. “Then maybe humanity’s punchline finally came due.”
 
 Page 7 — The Spoof
