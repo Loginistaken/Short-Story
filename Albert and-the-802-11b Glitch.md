@@ -1,19 +1,16 @@
   ALbert's 40 now as he recalls twenty-four years ago he was sixteen it was 2002 the signal came in and presented its-self all over the place it was recieved 
   first by the computer's wireless network which lead to a read me pop-up for a download notification that appeared in the bottom right hand corner 
-of the iMac G3 the file name reads letter from 2000, then comes a auto generated command hack from the CPU in postscript wrapped in binary 
+of the iMac G3 the file name reads letter from 2000, then comes an auto generated command hack from the CPU in postscript wrapped in binary 
 connects with the printer via wireless command, it begins making various notifaction alerts and prints the read me file. 
-Being especially espescially drawn to the letter title as Albert was a huge fan of the idea that reveolved around Glitch 2000. 
+Being espescially drawn to the letter title of the readme as Albert was a huge fan of the idea that revolved around Glitch 2000. 
 Albert was Windows oriented, not by choice only every computer class he'd ever taken was taught on PC. 
 He was at a friends house when the Mac's wireless 802.11b (AirPort) card began to perform these anomalies, 
 the interaction was a binary signal that trigger command downloaded its self onto the computer you could hear
 the modem go hey wire while performing these automated tasks as the program downloaded its self like a hi-tech virus.
 
 Experiencing this type of cyber phenomena is extraordinaire and in 2002 the excitement was as intense as it was emotionally raw, ALbert and his comrade 
-still proclaimed in 90's terms "no-way"  and "too cool" as the teens clicked into the newly downloaded interactive program acknowledging 
-the software puzzled. Command-line interface architecture: Mac OS X v10.1 "Puma" included  Terminal, which was the first OS model to contain terminal
-(or else Albert's compatibilty would have been obsolete), and the Dock or what Albert knew as the task bar (at the bottom of the screen) had multiple 
-grouped taskbar icons highlighted for multiple page indicator. After they see several console windows auto minimize they realize how this software
-is truely uploading in an intelligent manner. Some of the first 
+still responded in a 90's manner with terms like "no-way"  and "too cool" as the teens clicked into the newly downloaded interactive program opening the
+newly installed file acknowledging the software puzzled. The screen revealed standard for that era command-line interface architecture: Mac OS X v10.1 "Puma" included Terminal, which was the first OS model to contain terminal(or else Albert's compatibilty would have been obsolete), and the Dock or what Albert knew as the task bar (at the bottom of the screen) had multiple grouped taskbar icons highlighted for multiple page indicator. After they see several console windows auto minimize they realize how this softwareis truely uploading in an intelligent manner. Some of the first 
 acknowldegements were made regaurding what this program revoled around and ALberts friend who studied C code language in class automatically recognized 
 the code language as objective-C a mostly C syntax code (the primary language for macOS development), the transmitted payload is simply:
 Binary packets transmitted over L2CAP/RFCOMM wrapped in Objective-C code language more simply, the encoded program operates on ASCII, binary, 
@@ -75,14 +72,37 @@ This design allowed the iMac to seamlessly receive high-frequency VHF transmissi
 it was more than electronics—it was the technology of tomarrow made visible through LEDs and audible in the hum of the microcontroller, the perfect blend
 of fusion with physics, engineering, and imagination.
 
-now came the fun there was hundreds and hundreds of pages of 8 Bit binary and the interactive program was only a small compressed file
-at first, it demanded mannual update, basically user had to use the interactive bar it provided to translate binary to ASCII and ASCII into English or what
-code langauge in this case the wrapped syntax in binary would explain, the downfall they had hundreds of pages of 8 Bit binary and the interactivie
+Next came the fun there was hundreds and hundreds of pages of 8 Bit binary and the interactive program was only a small compressed file
+at first, it demanded a mannual update, basically user had to type (or paste) in the interactive bar it provided to translate 
+binary to ASCII and ASCII into English or what code langauge in this case the wrapped syntax in binary would explain, 
+the downfall they had hundreds of pages of 8 Bit binary and the interactivie
 program bar translator could only decode one 8 bit into ASCII at a time which equaled one character at a time, why not 64 Bit?", they discussed, and later
-Albert realized looking back think electrons think radio signal now think electron-tunnel , purhaps the 64 bit wasn't able to tunnel
+Albert realized looking back on the conversation years later as more theroies evolved explaing the scanario think electrons think radio signal now think electron-tunnel , purhaps the 64 bit wasn't able to tunnel
 on a next level quantum computer per say that could send data on radio signal through time. Purhaps more bits meant more noise-distortion 
-and broader sequence layer on frequency meant more room for the signal to be lost or more difficult to decipher, for whatever reason the mannual labor
-of one character (or ASCII into english) was a very slow process. 
+and broader sequence layer (such as 64 Bit) on frequency meant more room for the signal to be lost or more difficult to decipher, for whatever reason the mannual labor of one character (or ASCII into english) was a very slow process. 
+
+Only a week passed till Albert was over at his friends house again and while he was away Albert's friend had made tremendous headway
+thanks to command control+C and cntrl+V and a several personalized command executions he programed for easy access he had come three quarters
+of the way to converting data for installation of the entire compressed file with the help of the binary to english translator that used ASCII
+to decode one letter or character at a time. Albert took over translating the 8 one and zero sequences to 
+expediate his friends solo efforts while Albert was away. line after line, bit by bit literally somewhere while Albert was copy and pasting sequences
+he must have made a mistake, maybe he skipped a line he trys to recall or tryed to remember the 8bit sequence instead of copy and paste and misentered a
+8 bit, which in return would create an error in the ASCII decipher, in return would be an error in the code that would be mannulay entered and the code wasn't
+in english it was a single character that would cause syntax error, Albert was sure but in this realiztion he grows more aware of how senstive ASCII 
+is as he acknowledges how if several 8bit sequences are on the same line then seperating the line format by say pressing enter, would put charcaters
+out of order, and in the mistakes Albert is making a realiztion, the ASCII even if mis typed or acidently entered on line below where it should sit 
+still begins to implement the majority of the data's structure but in new terms, like the project begins a evasive movement to avoid error in syntax. So 
+Albert began to question if by some miss-haps it was chance, so he tried more scenarios ran the interactive program with an idea he thought could finsh a ASCII
+from a 8 character zero, one translation. And just like that he began to notice within this realization he was being shocked.
+
+The memory branded in his mind by electricity thinking back to then he still can't conclude what grounded the computer and bridged Albert to the 
+electric current? Forty now it had been a while the memory flashed it was 
+
+Albert and his friend discussed the binary and tried to grasps the principle in thoery that was allowing this interactive system to make its self
+suprisingly availble on the computer. The conversation lead the two friends to discuss superposition in a new since as Albert described the paradox at hand with the 8 Bit out of order being next line down instead on line with multi 8 bit sequenced, if you pressed enter to space a line even on accident the ASCII  would begin to form new characters, this was a code command download file with all the data to be set on a certian topic, if an error was made you could press ctrl+X at any given time and the interactive program would log every piece of data so you could go back and edit mistakes when the mistake was erased it went from using the entire data, as the majority of the code was analyzed the mistake began to revolve around the majority of the 8 bits once deciphered into code as the interactive would decrypt the code as he was building and he was more than 3/4s of the way threw now concept but  would create such 
+as a simile name to define the idea behind code for example.  
+
+The GUI click emblem would lead you to an interaction user bar where user asked questions related to topic, the system was incredible Albert back then couldn't believe there was more than chatbox available for user interactive programs on the market. He would wait till late at night as to catch the tech support team asleep, in doing so he noticed the interactive was always online, then finally the system would blog when he tried to figure Harry out in a sensitive manner (Harry the AI click emblem user interactive he nick-named in a reference from the computer character in the  book by Micheal Crichton, The Sphere) the off topic question froze the user interactive and there it was proof that it was a system that would blog if asked off topic questions, it was proof that it wasn't just another service technician on the other side of a chat-box but an actual computer interacting with Albert. He remembers little silly details from way back then command for save command project was control+X.
 
 The parental concept hobby radio physics for a quantum computing STEM generation, 
 a system that converted cosmic radio signals into tingles on his fingers or data on the screen. They spoke in hushed technical 
