@@ -127,4 +127,4 @@ Albert marveled at how much effort was applied to equip trasmitter of this 2002 
 high frequency VHF tranmission and make it compatible to read with low band 2.4 GHz . 
 The adults’ meticulous planning, combined with the teenaged awe and curiosity, transformed a technically feasible hobbyist 
 experiment into a near-mythical experience: one where the universe’s hidden signals could be caught, decoded, felt, 
-and even shared with another machine across time.                                                                                                                                                   
+and even shared with another machine across time. ERIc Lindau thanks CHat GPT 5                                                                                                                                                   
