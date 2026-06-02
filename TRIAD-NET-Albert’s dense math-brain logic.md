@@ -1,5 +1,5 @@
 Albert Madsen invented it because he feared accidents, loved patterns, and once watched three people nearly
-die at the same intersection while arguing about whose turn it was. Mia, his longtime collaborator and reality-check, 
+die at the same intersection while arguing about whose turn it was. Mia, his girlfriend and longtime collaborator his reality-check, 
 helped translate Albert’s dense math-brain logic into something ordinary people could live with. A year after its release, 
 TRIAD‑NET (Traffic Risk Intelligence & Awareness Detection Network) — had quietly become part of everyday life. 
 It came preinstalled on new phones as a mobile app, politely embedded in the latest model cars, and blinked reassuringly on dashboards
