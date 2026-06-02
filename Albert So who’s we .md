@@ -121,3 +121,4 @@ The room fell silent again except for the low ticking of the kitchen clock.
 
 And somewhere inside the office beyond the hallway, the TRIAD-NET simulations continued running across the screens —
 anonymous nodes moving endlessly across glowing maps, thousands of possible collisions appearing and disappearing before they could ever happen.
+by Eric Lindau thanks GPT chat 5
