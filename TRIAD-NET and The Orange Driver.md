@@ -166,7 +166,7 @@ The category became alarmingly large.
 Then came the gas station incident.
 
 The system on main frame had been upgraded with DUI rehabilitation program the system developed 
-giving more less privacy to the rehabilitation clients and more communication viewing to the mainframe on 
+giving less privacy to the rehabilitation clients and more communication viewing to the mainframe on 
 Albert's traffic control motherboard in return Albert gained clients name alert status , 
 and durning the fued at a gas station that ended in the calling of the Police by 
 the Cashier after someone had cut the Orange driver off at the tank when he had waited for ten minutes 
