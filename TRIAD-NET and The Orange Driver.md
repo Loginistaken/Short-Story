@@ -46,8 +46,8 @@ days the system could identify small vehicles and even distinguish color pattern
 stop signs, stoplights, lane markings, roadway construction zones, and traffic flow patterns. Every piece of 
 information flowed back into the motherboard.
 
-The simulation software uses two prediction engines responsible for much of this work was as one engine
-performed Physics between users the other did the math on alerts and notification in respsonse.
+The simulation software uses two prediction engines responsible for the majority of the work one engine
+performs Physics between users the other does the math on alerts and notification in respsonse.
 
 Two separate specialized in behavioral forecasting.physics simulation library specialized in physics calculations.
 Together they could estimate vehicle movement, traffic conflicts, collision probabilities, braking distances,
