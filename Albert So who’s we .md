@@ -102,9 +102,8 @@ Not fame.
 
 Not money.
 
-Not even invention.
-
-Just the obsessive idea that somewhere between signal delay, map prediction, and human movement there might exist a 
+partially still invention, but more the
+obsessive idea that somewhere between signal delay, map prediction, and human movement there might exist a 
 narrow mathematical window where catastrophe could still be avoided.
 
 Mia studied him quietly now, her expression softening as she finally realized he was serious.
