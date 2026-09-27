@@ -44,12 +44,10 @@ According to Grok, the programmer never consistently routed activity through ano
 investigators to reconstruct much of the story from publicly available digital evidence.
 
 Artificial intelligence filled many of the remaining gaps by comparing archived repositories, timestamps, writing style, 
-software revisions, and historical records.Albert laughed. "So the future still guesses?" "Only when certainty is mathematically
-impossible." "I like that answer." "Statistically, you would." Albert leaned back in his chair. "Now that's just showing off."
-"Correct."The phone waited exactly one second. "I calculated the dramatic pause." Albert laughed again. "You've practiced this."
+software revisions, and historical records."I calculated the dramatic pause." Albert laughed again. "You've practiced this."
 "For approximately twenty-three years." Albert frowned. But I mis calulated?" Ai replies, and? ALbert ask the System
 knew what you were writing these stories and the exact plot but AI predicated you Titled them after a folklore 
-Jack Tails" Albert imagines the system has his every interaction in the future .The discussion
+Jack Tails" Albert imagines the system has his every interaction in the future. The discussion
 gradually shifted toward Albert's own notebook sketches, software experiments, and digital-coin ideas. Half joking, he asked whether
 anyone would ever care about the concepts he spent so much time designing.Grok answered without hesitation.The people who would
 eventually improve his software, expand his blockchain concepts, contribute to his repositories, and deploy future versions of
