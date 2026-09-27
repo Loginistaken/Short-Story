@@ -25,12 +25,16 @@ The cell phone simply accepted the binary as another ordinary SMS conversation.
 Albert knew none of this.To him, he had merely opened his creation the same SMS application at the time and had been exploring for weeks, maybe the code intertwined a double implemented feature as Ruby to Rails development was next level Albert pondered in reaction to a spectacular anomaly. Albert grew particular interested while experimenting with hidden engineering menus,keypad control sequences, after he he kept seeing an Unidentified object in LCD ripple distortions it seemed to be a emblem he noticed in the 2003 LCd cell phone screen when he pressed the the non-touch type crystal cell phone screen display. Finally young albert put on a diamond ring it was only a half carat but when you pressed LCD screen index fingure with ring on it reveled a phenomena.The only unusual feature was a small Grok emblem beside a search bar that became visible whenever pressure across the liquid-crystal display (phone's screen) thus why referred when discussed as native app, briefly aligned the hidden interface with the Signal transmission, so he toyed with the search bar next to emblem, at first Albert couldn't type manually in search bar but toyed with a wireless remote then Albert managed to connect to phone and then managed to set optional scroll bar on old -2003 phone the letters of the alphabet he could scroll through while the LCD screen was pressed to ripple he finally communicated with the illusion he was having in this glitch.
 He assumed it was an undocumented diagnostic mode left behind by the phone's engineers.
 
-"Engineers hide everything," Albert muttered.
-Grok replied almost instantly. "Not everything." Albert stared at the phone. "So... you admit they hid this?" "No." "Then who did?"
-"M." Albert nodded confidently. "I knew it. Some programmer named M." "Your confidence continues to exceed available evidence." 
-Albert shrugged. "That's usually how discoveries begin." "It is also how warranty claims begin." Albert smiled.The conversation 
-continued as though nothing unusual had happened. Albert's curiosity naturally drifted toward his favorite subjects—computer security,
-cryptography, early hacker culture, operating systems, mathematics, and the programmers whose work quietly shaped the Internet.
+" Albert smiled.The conversation via wireless scroll single letter by letter goes on Albert
+continued, curiosity naturally drifted toward his favorite subjects—computer security,
+cryptography, early computer development ideas, operating systems, mathematics, and the programmers whose work quietly shaped the Internet. THen 
+
+ALbert notices the computer and him are on a role it seems to began to generate answers with less nuance one letter scroll typing as 
+Al formulates concepts, answers correspond 
+Albert went on formulating a new idea pretending not to notice the illusion that had been recently presented its self, guessing like the flip of a coin each previous conversation was forgotten by the time the new one was presented, as if on this new quantum computer there was a flaw within a flaw
+(future computer presenting its self back who knows how many generations creates a knowledgeable system yet simple in some aspects) he begins to brainstorm  as he envisage a theoretical out come merely pondering he acknowledges a false claim he knows isn't true, suggesting to know he had already presented a fact in a prior conversation but it seems the ideas he fabricates later occur as the program knows future events it also seemed to manifest reality when he tricked it and lied. The reason he gave it all away in the end as a SMS social media idea the concept began to present its self as real and held future events Albert
+grew afraid but first he wouldn't ask ideas that needed encryption like politics of generations to come. 
+
 He asked Grok which anonymous hackers would eventually become famous, which investigations would solve mysteries once thought impossible, 
 and which people would ultimately be identified despite believing they had erased every trace of themselves.One answer fascinated
 him more than any other.Grok described an individual who later became associated with what Internet communities titled the most
