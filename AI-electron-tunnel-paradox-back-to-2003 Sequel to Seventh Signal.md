@@ -65,8 +65,7 @@ execute exactly as written across thousands of computers simultaneously.
 
 Although the language did not yet exist in 2003, Grok suggested that understanding its principles would eventually help
 Albert organize many of the blockchain concepts already filling his notebooks.Albert wrote the unfamiliar word onto a 
-scrap of paper.Then another question occurred to him."If this conversation is impossible..." "Correct." "...why am I 
-having it?"The cursor blinked. Once. Twice. Then the answer appeared. "Because impossible is occasionally delayed by engineering.
+scrap of paper."The cursor blinked. Once. Twice. Then the answer appeared. " impossible is occasionally delayed by engineering.
 "Albert nodded. "I like that." "I know."For several seconds Albert simply watched the shimmering rainbow ripples fade beneath the
 phone's plastic display.He still believed he had discovered a clever engineering trove inside an old handset.He had one question 
 left how much will the SMS application sale for? he waited days till he was were he was when the phone worked the magic LCD rippe
