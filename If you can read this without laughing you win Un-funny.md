@@ -1,10 +1,8 @@
 # Short-Story
 
-Title: “If you can read this without laughing you win, Un-funny”
-A Dystopian 
+Title: “If you can read this without laughing you win, Un-funny”A Dystopian 
 
 Page 1 — The First Laugh, they say it all started as a chuckle in a dark and eerie insane asylum.
-
 It was cusp normal somewhere round 2018, back when you still double glanced at the person in public wearing a KN95 face mask and
 before some had ever valued true commodities like tollet paper. Worsening economies in the city lead to more
 homeless population. As some recently had found themselves on the streets
